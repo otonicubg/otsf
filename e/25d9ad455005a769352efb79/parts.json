@@ -1,0 +1,19 @@
+{
+  "name": "Planet Life",
+  "file": "Planet Life.html",
+  "size": 29200343,
+  "sha256": "aa011d60c936b643793421c2bc6d681306ccf663a23432971c8f05417b8c6ea5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7121dd765a38d8c4b8490611.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4ca5a5909d48bfceea2f4b18.bin",
+      "size": 8228823
+    }
+  ]
+}

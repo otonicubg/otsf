@@ -1,0 +1,23 @@
+{
+  "name": "Grow a Garden",
+  "file": "Grow a Garden.html",
+  "size": 51722510,
+  "sha256": "7dbf36130b815d9cf266a6be2a92e91848525ab2560629aff44d319a41868a05",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4fa836cd573133eeee6a74ba.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fbe8b256228e31d44de67374.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2adbaea2852b6292276430b5.bin",
+      "size": 9779470
+    }
+  ]
+}

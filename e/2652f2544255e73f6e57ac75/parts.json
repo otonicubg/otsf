@@ -1,0 +1,15 @@
+{
+  "name": "bounceback",
+  "file": "bounceback.html",
+  "size": 232856,
+  "sha256": "bceb92f04fe1c9423d9e9f9725858e68060138353cd67a4a473f3694f0daeb56",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9213de049075cb8e972d217a.bin",
+      "size": 232856
+    }
+  ]
+}

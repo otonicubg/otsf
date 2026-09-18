@@ -1,0 +1,15 @@
+{
+  "name": "fishing and lines",
+  "file": "fishing and lines.html",
+  "size": 20384116,
+  "sha256": "1b07c17cbefc4f22a1d729cdcea894a3de2a6958fdb1b4884b67d6226b2184dd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7c161acee11f0bdb9cd7ba0a.bin",
+      "size": 20384116
+    }
+  ]
+}
