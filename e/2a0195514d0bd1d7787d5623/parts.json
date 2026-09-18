@@ -1,0 +1,43 @@
+{
+  "name": "Fused240",
+  "file": "Fused240.html",
+  "size": 161568219,
+  "sha256": "bde53220c7ea50cd914f03ceb43e7cd0b5b538d0e06c8f0d8a54b5439c15d1f5",
+  "partSize": 20971520,
+  "count": 8,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c131377d9caf773ce2df62c4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "715f5cb754090ad5c7c032fe.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7adbcf6a4dd5b30f4200a62a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "486e6b3382372d1d945a9153.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a9846eeda1d017ccbc4f00d7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e35633e9a4e8163b28097ea8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c3b02ba4e529cff4f3de1edc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2e74ba0879b07c8e913edb61.bin",
+      "size": 14767579
+    }
+  ]
+}

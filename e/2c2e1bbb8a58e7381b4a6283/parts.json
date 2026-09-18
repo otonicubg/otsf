@@ -1,0 +1,15 @@
+{
+  "name": "Mini Train",
+  "file": "Mini Train.html",
+  "size": 11828992,
+  "sha256": "19106b66a1aabfc22f628a780777141e3084791c33353bd2fda1ed52d80d1a8b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d27948ee1abddbe2eb3507db.bin",
+      "size": 11828992
+    }
+  ]
+}

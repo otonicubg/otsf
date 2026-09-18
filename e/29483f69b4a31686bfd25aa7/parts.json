@@ -1,0 +1,15 @@
+{
+  "name": "nova billiards",
+  "file": "nova billiards.html",
+  "size": 328416,
+  "sha256": "9f03ef8b1a51393fa6477232ead258a19494626afb5305c2b00cd08ef93e9c31",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "07907ae337f1a5a434c73105.bin",
+      "size": 328416
+    }
+  ]
+}

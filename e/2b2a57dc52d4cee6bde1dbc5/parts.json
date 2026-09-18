@@ -1,0 +1,15 @@
+{
+  "name": "roadblocks",
+  "file": "roadblocks.html",
+  "size": 117904,
+  "sha256": "76213bb3b207e5f1b2176d2541795951d475230d3fdfe4b6c9ee9a5054bb0d16",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6d0bdfa3e13afdceffbb6b70.bin",
+      "size": 117904
+    }
+  ]
+}

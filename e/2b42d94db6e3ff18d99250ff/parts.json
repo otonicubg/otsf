@@ -1,0 +1,15 @@
+{
+  "name": "MineKahn",
+  "file": "MineKahn.html",
+  "size": 1596274,
+  "sha256": "a81b07bc8cd2a203bb573cbacebddca08dcffcbaa4b1169f435c7c7357ff1d3a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6b920e555625aa67ec25aab4.bin",
+      "size": 1596274
+    }
+  ]
+}

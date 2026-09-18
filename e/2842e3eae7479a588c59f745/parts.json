@@ -1,0 +1,15 @@
+{
+  "name": "blackholesquare",
+  "file": "blackholesquare.html",
+  "size": 189625,
+  "sha256": "817d583b612be8ac05af726d0430615c30bbebc3e1d76965194d1ce3ae32f947",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d68face9d8ef1f1c3676c478.bin",
+      "size": 189625
+    }
+  ]
+}

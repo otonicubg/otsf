@@ -1,0 +1,23 @@
+{
+  "name": "cars thief",
+  "file": "cars thief.html",
+  "size": 46296875,
+  "sha256": "d61a744e3700479d9641b44d84e961d28c19ce6275c1f58f6fdec7c8ef587807",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "44b19e89ccf8f53c556262e8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "91c3cd22c434f1c448f650e0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "afe8ac71ff7d101e5eb7b86d.bin",
+      "size": 4353835
+    }
+  ]
+}

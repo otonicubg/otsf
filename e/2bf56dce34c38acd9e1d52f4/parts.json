@@ -1,0 +1,19 @@
+{
+  "name": "zuck vs musk beatdown",
+  "file": "zuck vs musk beatdown.html",
+  "size": 22510973,
+  "sha256": "a6bb974bacc6d9f993c338c5e5accc485fcad10dd1029b03816fdd04d03da75c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6ea90e6fc254f1736a5f9e8f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "648538d4897eb2d22b6b585c.bin",
+      "size": 1539453
+    }
+  ]
+}

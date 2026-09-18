@@ -1,0 +1,19 @@
+{
+  "name": "Min Hero Tower of Sages",
+  "file": "Min Hero Tower of Sages.html",
+  "size": 36880930,
+  "sha256": "5a4acd714e38ca70af0d03ec88573cfa1a89a3a0bb3b73740af3ba15f2d52e85",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f133728174cf6367d25007f8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1c20f8e5666ee889e956570b.bin",
+      "size": 15909410
+    }
+  ]
+}
