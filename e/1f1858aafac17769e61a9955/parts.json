@@ -1,0 +1,15 @@
+{
+  "name": "basketball frvr",
+  "file": "basketball frvr.html",
+  "size": 8866207,
+  "sha256": "a289a824adfc62b1bf3eecf4ec1d98441670cd5bb49550e1d6cb3bf3432c19de",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3665512b9a631fcbfd86e623.bin",
+      "size": 8866207
+    }
+  ]
+}
