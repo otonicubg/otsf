@@ -1,0 +1,15 @@
+{
+  "name": "fighter aircraft pilet",
+  "file": "fighter aircraft pilet.html",
+  "size": 289284,
+  "sha256": "5750f02415617d53e612edca1249cab6a566d1a57dcecb4ff29710258145bf89",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6ac523d3b66b8787bb3ae84d.bin",
+      "size": 289284
+    }
+  ]
+}

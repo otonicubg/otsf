@@ -1,0 +1,19 @@
+{
+  "name": "idle restaurants tycoon",
+  "file": "idle restaurants tycoon.html",
+  "size": 34711915,
+  "sha256": "7c99d47dec49f8185b8edd29906efcb1c7e7230c6de140581dec3f71ae7915fd",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2a9d854f85023fa72cfaa899.bin",
+      "size": 20971520
+    },
+    {
+      "name": "07812943cc987d57eba0e846.bin",
+      "size": 13740395
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "cursed winds",
+  "file": "cursed winds.html",
+  "size": 12985042,
+  "sha256": "89fc6897c5f4f1f5b6ab5f33a380f85fb66d71843a6a6a1c6aa59ebcec7e0507",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2ac025198edfb20839f4b0cd.bin",
+      "size": 12985042
+    }
+  ]
+}

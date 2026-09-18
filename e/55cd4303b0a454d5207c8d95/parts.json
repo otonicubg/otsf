@@ -1,0 +1,15 @@
+{
+  "name": "Riddle School 4",
+  "file": "Riddle School 4.html",
+  "size": 18153420,
+  "sha256": "12bbbc3da14078643f890e7338ce53151fd4687fefa91137176a34d35cbddf04",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d96f6a326f2b859460012ec3.bin",
+      "size": 18153420
+    }
+  ]
+}

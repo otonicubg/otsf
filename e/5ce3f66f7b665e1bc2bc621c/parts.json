@@ -1,0 +1,19 @@
+{
+  "name": "Boxing",
+  "file": "Boxing.html",
+  "size": 41154575,
+  "sha256": "d39d353a62355f9b71e5e99798dda191b5f968f88bbb5fd9c19548e690b657c9",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "36e621ea2174651b8563c075.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4933d0ffcd7a5cea61abd035.bin",
+      "size": 20183055
+    }
+  ]
+}

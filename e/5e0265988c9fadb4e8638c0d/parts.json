@@ -1,0 +1,19 @@
+{
+  "name": "Burger And Frights",
+  "file": "Burger And Frights.html",
+  "size": 35380536,
+  "sha256": "3b813948004f3ea4b0bf6de044af61711c01a8d7bcb04532941ed0bc655fa978",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0bcb48dd8d90f7c60bcc3e33.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1b4ba3c9532ba18f8e66ca51.bin",
+      "size": 14409016
+    }
+  ]
+}

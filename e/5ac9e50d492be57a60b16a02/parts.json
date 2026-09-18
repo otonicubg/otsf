@@ -1,0 +1,15 @@
+{
+  "name": "life in the static",
+  "file": "life in the static.html",
+  "size": 4117096,
+  "sha256": "a7b08a9ccb2dacced8183021cefabe8f5f71087b8af063a73bcaf470be85a7cf",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9891f510efd2f55a2c1eae1f.bin",
+      "size": 4117096
+    }
+  ]
+}

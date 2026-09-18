@@ -1,0 +1,15 @@
+{
+  "name": "Slope 2",
+  "file": "Slope 2.html",
+  "size": 9378952,
+  "sha256": "51672780aef804656655877ab533d5991ecd7fe732a5ab4a1a15a3f21d9e1cbe",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8256d56a4527edb7b8c815e5.bin",
+      "size": 9378952
+    }
+  ]
+}
