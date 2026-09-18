@@ -1,0 +1,19 @@
+{
+  "name": "superbattles 2",
+  "file": "superbattles 2.html",
+  "size": 23538597,
+  "sha256": "b9cc14fb4d663d40b37263499726dd0504a23d636b521301e7fe628f03ca305c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4395c9c09af6991729f506a1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9a1517ab93d9f78cdb8949b3.bin",
+      "size": 2567077
+    }
+  ]
+}

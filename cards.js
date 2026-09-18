@@ -395,6 +395,7 @@ let cards = [
     {id: 394, name: 'gun mayhem 3', image: '.jpg', path: 'gun mayhem 3', split: 'bbd6c0d47f3e37b5b87c5896/parts.json'},
     {id: 395, name: 'orbital survival', image: '.jpg', path: 'orbital survival', split: '165a78d1bc18ebaef6ba245c/parts.json'},
     {id: 396, name: 'Stack Ball', image: '.webp', path: 'Stack Ball', split: '284a2334364eec28f59ee8f5/parts.json'},
+    {id: 397, name: 'pizza tower', image: '.jfif', path: 'pizza tower', split: '6d68ea16067fd08b12f05d73/parts.json'},
     {id: 398, name: 'marble dash', image: '.jpg', path: 'marble dash', split: '498e19b81499b32570becbe0/parts.json'},
     {id: 399, name: 'Appel', image: '.png', path: 'Appel', split: 'de04c8c893a8c1cc10542fe2/parts.json'},
     {id: 400, name: 'Ball Platformer', image: '.png', path: 'ball platformer', split: 'c3abbd7cfc44a5d509c1d5fd/parts.json'},

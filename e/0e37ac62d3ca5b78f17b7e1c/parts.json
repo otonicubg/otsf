@@ -1,0 +1,15 @@
+{
+  "name": "color switch",
+  "file": "color switch.html",
+  "size": 3575165,
+  "sha256": "bfab803a15672c254bd566aa0172a399007ffc4b63a6d2c4370a0a862b506394",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6c21533c6b5da3c17bfc49bc.bin",
+      "size": 3575165
+    }
+  ]
+}

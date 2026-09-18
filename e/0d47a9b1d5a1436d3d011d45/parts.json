@@ -1,0 +1,15 @@
+{
+  "name": "browserquest",
+  "file": "browserquest.html",
+  "size": 103780,
+  "sha256": "d4ec1c226767dc0fea7f4e77210098aa0baf70ad362e2066d6677f408e10c83a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8876c33a569197b8ce7146fe.bin",
+      "size": 103780
+    }
+  ]
+}

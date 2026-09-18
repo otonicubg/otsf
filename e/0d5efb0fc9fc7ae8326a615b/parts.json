@@ -1,0 +1,15 @@
+{
+  "name": "exo",
+  "file": "exo.html",
+  "size": 195378,
+  "sha256": "52c33c022c816b52c2db77dcb254eb3751c5fcc0de69d28be502f0088fdd687c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5b0f74ac0f0419a3538d517d.bin",
+      "size": 195378
+    }
+  ]
+}

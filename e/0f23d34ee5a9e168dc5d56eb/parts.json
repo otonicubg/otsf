@@ -1,0 +1,19 @@
+{
+  "name": "free kick classic",
+  "file": "free kick classic.html",
+  "size": 25057577,
+  "sha256": "22d2b7ca509a5a6d2c49a35a07cdf35bf2122cd61267c16e14aadb02e23f6513",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "31c3ad4d33a316878a84bca6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e635657bce124b5464570e6a.bin",
+      "size": 4086057
+    }
+  ]
+}
