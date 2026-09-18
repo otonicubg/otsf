@@ -1,0 +1,15 @@
+{
+  "name": "chess",
+  "file": "chess.html",
+  "size": 225564,
+  "sha256": "1ff12a26ebc03b4be7ecdb15a762089eadf14ab1545a10d06904a4b6a283a85c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d26b054f209288c38de49ac3.bin",
+      "size": 225564
+    }
+  ]
+}

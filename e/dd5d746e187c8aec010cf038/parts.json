@@ -1,0 +1,15 @@
+{
+  "name": "crossy cat",
+  "file": "crossy cat.html",
+  "size": 12127683,
+  "sha256": "e282d39c4a2ad58c90215dbf3cc3f7aa76f30088520658508aa3fb00c7823b96",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6cad281df33e1e392db241a8.bin",
+      "size": 12127683
+    }
+  ]
+}

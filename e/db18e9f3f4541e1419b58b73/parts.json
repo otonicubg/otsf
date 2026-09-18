@@ -1,0 +1,19 @@
+{
+  "name": "assembloid",
+  "file": "assembloid.html",
+  "size": 40833975,
+  "sha256": "9d587169e834d0283eff3cf2637b81995cb416c7cdcced6571b29965c0e80a07",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "466b1749585fe9d989749966.bin",
+      "size": 20971520
+    },
+    {
+      "name": "95c078277b070816f0ac9b6d.bin",
+      "size": 19862455
+    }
+  ]
+}
