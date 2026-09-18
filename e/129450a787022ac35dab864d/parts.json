@@ -1,0 +1,15 @@
+{
+  "name": "dark tomb",
+  "file": "dark tomb.html",
+  "size": 1689515,
+  "sha256": "92af1cbab7aca8851be37bab33c105eb5c196f95138d61029f73ff6f0fa261fd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d0ca1193e92f9f0bcf7dd44b.bin",
+      "size": 1689515
+    }
+  ]
+}

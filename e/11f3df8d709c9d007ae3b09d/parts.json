@@ -1,0 +1,15 @@
+{
+  "name": "candy jump",
+  "file": "candy jump.html",
+  "size": 13496885,
+  "sha256": "47491674d83cf855a151d156c8f71ab21b4611f34f81eead7d20c3bfbac071a3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "368b62daa0ab63fa6c9c29c2.bin",
+      "size": 13496885
+    }
+  ]
+}
