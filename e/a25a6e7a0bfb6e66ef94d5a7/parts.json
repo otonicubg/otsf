@@ -1,0 +1,19 @@
+{
+  "name": "scraplegs",
+  "file": "scraplegs.html",
+  "size": 26635190,
+  "sha256": "6f7e77664913bf19fd45a408cb0a42423e3d1917302ab4d43a96de738f7de657",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6b857861cd6f2a067762d323.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8546261c9eebd582ad70dab7.bin",
+      "size": 5663670
+    }
+  ]
+}

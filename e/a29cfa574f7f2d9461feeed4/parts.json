@@ -1,0 +1,27 @@
+{
+  "name": "Mountain Biking",
+  "file": "Mountain Biking.html",
+  "size": 83556024,
+  "sha256": "e762775ee963700677718879e96ea0ae43971c16301b47ba5fd0c695fc5cb9df",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "29dd1931b599c9a9dd54a3ad.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7563a0c1ab9fb2aa8a168bd4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f32d926f0b39ba8c40456bda.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0fb6e3a157230e06db7aaab7.bin",
+      "size": 20641464
+    }
+  ]
+}

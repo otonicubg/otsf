@@ -1,0 +1,15 @@
+{
+  "name": "X Trial Racing",
+  "file": "X Trial Racing.html",
+  "size": 10760023,
+  "sha256": "ddf4363f7084072bf66e670189df46d508e6a0a3cfc45bdefd380fbe9884c289",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c650c745d5ed6625ac98d6d5.bin",
+      "size": 10760023
+    }
+  ]
+}

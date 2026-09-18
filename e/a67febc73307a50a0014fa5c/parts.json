@@ -1,0 +1,15 @@
+{
+  "name": "Last Breath",
+  "file": "Last Breath.html",
+  "size": 18739162,
+  "sha256": "8e57147ca0427160970074cea25ba04ffe5925e5eee61de717be57ac85203698",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d5d45c59082359b7e468324c.bin",
+      "size": 18739162
+    }
+  ]
+}

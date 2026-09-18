@@ -1,0 +1,15 @@
+{
+  "name": "thumb fighter christmas",
+  "file": "thumb fighter christmas.html",
+  "size": 15745416,
+  "sha256": "13a4aa5bae5dc832ef56f7e8990d3d93e56b79d508f0715f3ccac553cf83aff8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "811502669e07c9de204d74c4.bin",
+      "size": 15745416
+    }
+  ]
+}

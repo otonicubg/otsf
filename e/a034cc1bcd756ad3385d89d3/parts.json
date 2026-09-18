@@ -1,0 +1,15 @@
+{
+  "name": "electron dash",
+  "file": "electron dash.html",
+  "size": 20326674,
+  "sha256": "4e07a7acde1e35fb1f66198664150d55630d08aea9e1caf479afca53e1e993bb",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "95683b69e2b0ac6244fd06b4.bin",
+      "size": 20326674
+    }
+  ]
+}

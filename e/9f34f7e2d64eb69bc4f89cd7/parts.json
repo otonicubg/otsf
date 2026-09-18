@@ -1,0 +1,23 @@
+{
+  "name": "highway bike simulator",
+  "file": "highway bike simulator.html",
+  "size": 52288028,
+  "sha256": "b63315a7449ac8b0d098509c48f58f65c9e8ef7d5e74650e65b20d4bc573192f",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "298c9100ac63240690d251a3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3fece0cd0cdcb1032c4e6b86.bin",
+      "size": 20971520
+    },
+    {
+      "name": "de892b435bcde0f1491179c1.bin",
+      "size": 10344988
+    }
+  ]
+}

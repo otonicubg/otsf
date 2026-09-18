@@ -1,0 +1,23 @@
+{
+  "name": "Customer support",
+  "file": "Customer support.html",
+  "size": 43367605,
+  "sha256": "529872c2067ccafaa43d1558521402370db70a6b38238e5fc38a6cf7c58449df",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a57e1da7cc9baf2a9be990af.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f1c59e2562084525a26fddf1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fe1bcc615b71017c0dc4c853.bin",
+      "size": 1424565
+    }
+  ]
+}

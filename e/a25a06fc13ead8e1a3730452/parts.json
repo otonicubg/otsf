@@ -1,0 +1,15 @@
+{
+  "name": "squish run",
+  "file": "squish run.html",
+  "size": 11570352,
+  "sha256": "b8c3e4d4b1963e1a5480e37553815af2915ad14ee12d76a4eef716bbbd103c0a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d6e4c2e13a0e639ce1c6f385.bin",
+      "size": 11570352
+    }
+  ]
+}

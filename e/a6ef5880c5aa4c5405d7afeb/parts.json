@@ -1,0 +1,15 @@
+{
+  "name": "put a ring on it",
+  "file": "put a ring on it.html",
+  "size": 20648590,
+  "sha256": "2f72bec640faf57980bf1f35a7bd20879dd85e9fc9a6a0446d287b1afc0e3520",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1ade5a470068be15082bd8e0.bin",
+      "size": 20648590
+    }
+  ]
+}

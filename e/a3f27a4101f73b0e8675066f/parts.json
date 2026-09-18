@@ -1,0 +1,15 @@
+{
+  "name": "bit planes",
+  "file": "bit planes.html",
+  "size": 528540,
+  "sha256": "9f0bfb88b4aa80c2da2afae8e63d9e56fb737bc1355ad4c6d2a5c7620ceca8fa",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9a455c2e47cafb915ed9c9c8.bin",
+      "size": 528540
+    }
+  ]
+}

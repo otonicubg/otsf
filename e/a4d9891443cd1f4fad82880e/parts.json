@@ -1,0 +1,15 @@
+{
+  "name": "Time Shooters",
+  "file": "Time Shooters.html",
+  "size": 13401808,
+  "sha256": "8600f974b635015e8c7b6057df4b761b8291a5acb99da38b2cac315bf2b9e16c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eba08e478ff42402f9500ea2.bin",
+      "size": 13401808
+    }
+  ]
+}

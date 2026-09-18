@@ -1,0 +1,19 @@
+{
+  "name": "Water Works",
+  "file": "Water Works.html",
+  "size": 26685474,
+  "sha256": "5d4d8f4bba7defbc53af0599133b8e17c2065f6a3aad9c5aff1ad887999e3573",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f06c7dedd191a70eb658dd04.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c97c34dab9816f663910ea9d.bin",
+      "size": 5713954
+    }
+  ]
+}

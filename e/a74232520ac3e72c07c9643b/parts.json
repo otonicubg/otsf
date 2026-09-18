@@ -1,0 +1,15 @@
+{
+  "name": "arithmetica",
+  "file": "arithmetica.html",
+  "size": 14060961,
+  "sha256": "d284ad8025f9e26bf21c20e2d2906ec8fa01485ac806d2ee635a3711d76b165f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c3d534aca94fffb7c35fa973.bin",
+      "size": 14060961
+    }
+  ]
+}
