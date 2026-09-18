@@ -1,0 +1,15 @@
+{
+  "name": "ludo multiplayer",
+  "file": "ludo multiplayer.html",
+  "size": 15031226,
+  "sha256": "228a6c2391172f4fef056eadeec2bf569fc17888b782021e6ad9e651578d4f0a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b4ea99afd1a718be88c003ca.bin",
+      "size": 15031226
+    }
+  ]
+}

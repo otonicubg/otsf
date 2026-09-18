@@ -1,0 +1,15 @@
+{
+  "name": "cannon strike",
+  "file": "cannon strike.html",
+  "size": 14660501,
+  "sha256": "5997d198247eeb404f2e0a41f401e2c767ac9d80d0ef099e19f56ed59906a430",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "01a1054c9c3a51115b034043.bin",
+      "size": 14660501
+    }
+  ]
+}

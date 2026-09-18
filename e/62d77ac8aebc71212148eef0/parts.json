@@ -1,0 +1,23 @@
+{
+  "name": "sketchbook 04",
+  "file": "sketchbook 04.html",
+  "size": 43042672,
+  "sha256": "9172e26e255155acb3924b23c57ed2cd1d53ac93f142865bb758fbe3959fc5af",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9e30b4546e8f9748f63ae3b3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "db9501d1589f366b178585a0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e9896f0d831f7aa1cdd75444.bin",
+      "size": 1099632
+    }
+  ]
+}

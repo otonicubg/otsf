@@ -1,0 +1,15 @@
+{
+  "name": "delia the traveling witch",
+  "file": "delia the traveling witch.html",
+  "size": 413309,
+  "sha256": "135effc248fefec87692942b73ddd11f8d3cfa17a201937605545b294d187f1d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a1ed147aecd41345a67352bd.bin",
+      "size": 413309
+    }
+  ]
+}

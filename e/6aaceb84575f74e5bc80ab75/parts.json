@@ -1,0 +1,15 @@
+{
+  "name": "Papas Wingeria",
+  "file": "Papas Wingeria.html",
+  "size": 19892603,
+  "sha256": "c4ee12f036f5adeeb61d4df54fa60293e570650afceada7545d410f792518b5c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d4899ee6f1e609db3a0fdf9f.bin",
+      "size": 19892603
+    }
+  ]
+}

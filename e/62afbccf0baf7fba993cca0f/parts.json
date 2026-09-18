@@ -1,0 +1,23 @@
+{
+  "name": "Fancy Pants 3",
+  "file": "Fancy Pants 3.html",
+  "size": 48312641,
+  "sha256": "cab2297cfa964f6fe8fee3cfaade05bef8a7c30adfad46b4da8e592c1802b19e",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2fd46f6ce810d3e6a43359ca.bin",
+      "size": 20971520
+    },
+    {
+      "name": "60636bbca556ff91a66e20f3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "27b205c333d3dc5286f31168.bin",
+      "size": 6369601
+    }
+  ]
+}

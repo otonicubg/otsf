@@ -1,0 +1,15 @@
+{
+  "name": "Drive Mad",
+  "file": "Drive Mad.html",
+  "size": 2702558,
+  "sha256": "e0578755a669c555528a6131bd27dfba62530d85eb500ea48ee30d5fda9a6437",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "73233c96b8aa52a555e92516.bin",
+      "size": 2702558
+    }
+  ]
+}

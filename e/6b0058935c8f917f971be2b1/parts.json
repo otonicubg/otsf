@@ -1,0 +1,15 @@
+{
+  "name": "blocky gangster",
+  "file": "blocky gangster.html",
+  "size": 337014,
+  "sha256": "a0a8360bc1fea479d853e6e29c2e26b27e520b742c4640486bdc1611f14e4414",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d3abc12fbaa4201e1daa52e5.bin",
+      "size": 337014
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Shape Shifter",
+  "file": "Shape Shifter.html",
+  "size": 23124566,
+  "sha256": "742a45bc94ce67d3e02fa3af4abed8cebf57a8e1e1eba57734e5a2e2ae953f43",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f177d0047c8202bb9d887c3d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1eed208b85fa3b782f102786.bin",
+      "size": 2153046
+    }
+  ]
+}

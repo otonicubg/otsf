@@ -1,0 +1,15 @@
+{
+  "name": "bunnies carrot",
+  "file": "bunnies carrot.html",
+  "size": 7057651,
+  "sha256": "d6a20a8285613e1ffd3a56882e2ef877d405d9df43948e63516dde031a1c1a79",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3da0f280ec1ce7323f84abab.bin",
+      "size": 7057651
+    }
+  ]
+}
