@@ -1,0 +1,15 @@
+{
+  "name": "flip bros",
+  "file": "flip bros.html",
+  "size": 18987908,
+  "sha256": "97a6f5788853ff93137b0e6661bbefcc485e7910fa09977cff95ec145558e454",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "99314a3c4a47303fe5c275a1.bin",
+      "size": 18987908
+    }
+  ]
+}

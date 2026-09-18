@@ -1,0 +1,19 @@
+{
+  "name": "cubito mayhem",
+  "file": "cubito mayhem.html",
+  "size": 29224458,
+  "sha256": "d4e8d30babf756e56c181d8f27a8d2bfc3ed89b8b568cb826d2ec110b5e46066",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d5f60a3f238412e0e9b092a2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "13bfc2232c0c25e8b883a363.bin",
+      "size": 8252938
+    }
+  ]
+}

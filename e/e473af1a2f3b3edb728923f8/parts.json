@@ -1,0 +1,15 @@
+{
+  "name": "Drift City",
+  "file": "Drift City.html",
+  "size": 18103182,
+  "sha256": "9bc709f5f8bb522dbad3a7a01e2bf1731ef8385ade3bf2f79a7e1e6d6ce0a69a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "29b676035416e1beff1277dd.bin",
+      "size": 18103182
+    }
+  ]
+}

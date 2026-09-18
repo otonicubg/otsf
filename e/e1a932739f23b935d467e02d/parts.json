@@ -1,0 +1,23 @@
+{
+  "name": "slope city",
+  "file": "slope city.html",
+  "size": 42037944,
+  "sha256": "7ec3439afb390133993d1864fca2c4c7155ce0fd193feb872af21b403b91d7b3",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0037e5d53702c06eccc02756.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b02b1ecb229155507cd4cf35.bin",
+      "size": 20971520
+    },
+    {
+      "name": "31876f640f03fc97e0e2460c.bin",
+      "size": 94904
+    }
+  ]
+}

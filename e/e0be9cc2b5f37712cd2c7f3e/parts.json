@@ -1,0 +1,15 @@
+{
+  "name": "ISLANDER",
+  "file": "ISLANDER.html",
+  "size": 2296828,
+  "sha256": "e1370048d64f52faabf65dace65150f3306c82164e5e990c6010d88969695228",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "45a806e7043511810e0a7db8.bin",
+      "size": 2296828
+    }
+  ]
+}

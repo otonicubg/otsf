@@ -1,0 +1,19 @@
+{
+  "name": "traffic rush",
+  "file": "traffic rush.html",
+  "size": 26122578,
+  "sha256": "bf57d8cde0d72914f5fca3b22e13e0a0e8bac547ff1cbd9c65a65e1efaec01c8",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dbe2b6e3085c2357eea8a924.bin",
+      "size": 20971520
+    },
+    {
+      "name": "eec913d1ae871ee464b8f33f.bin",
+      "size": 5151058
+    }
+  ]
+}
