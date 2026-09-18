@@ -1,0 +1,15 @@
+{
+  "name": "worlds-hardest-game-2",
+  "file": "worlds-hardest-game-2.html",
+  "size": 833277,
+  "sha256": "3a6dc3c5378f73beb559113a7e344f1831856cf122dde314eb358d1f81b3a0c7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6b02a3a1724704380eb3529a.bin",
+      "size": 833277
+    }
+  ]
+}

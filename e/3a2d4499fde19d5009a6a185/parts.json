@@ -1,0 +1,15 @@
+{
+  "name": "xx142-b2exe",
+  "file": "xx142-b2exe.html",
+  "size": 124346,
+  "sha256": "d2c290de41b66e39c5584a6cc3c8df72a108831299c980ab19a901c05a782edd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2f5c7aa3a65988003d1c80ae.bin",
+      "size": 124346
+    }
+  ]
+}

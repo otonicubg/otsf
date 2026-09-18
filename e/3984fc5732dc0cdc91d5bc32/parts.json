@@ -1,0 +1,15 @@
+{
+  "name": "breakout",
+  "file": "breakout.html",
+  "size": 1538322,
+  "sha256": "455bef4219c68f6541f0505f178d689162dffe6cd9ec38316f33ea423f936749",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a5a1c8ca571c51472ae13d9c.bin",
+      "size": 1538322
+    }
+  ]
+}
