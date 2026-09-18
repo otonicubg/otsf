@@ -1,0 +1,43 @@
+{
+  "name": "Bendy and the ink machine",
+  "file": "Bendy and the ink machine.html",
+  "size": 152981725,
+  "sha256": "4b89905224082731edc56df698cc48947c06e4cc75a68055b851698318ed591d",
+  "partSize": 20971520,
+  "count": 8,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7e23792ccee5d3b4ac428871.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f66b085ce8db55b796a131fc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f30a0a7731b924a8880ca487.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0464739f208565c9c5845e62.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f8498cb49f34e04d88bf6fe2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "94136f8242c8ae23302b7a02.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9d3ea8c30bb6d5e8eb6daaf8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bf99b98b93daf66a7a03535d.bin",
+      "size": 6181085
+    }
+  ]
+}
