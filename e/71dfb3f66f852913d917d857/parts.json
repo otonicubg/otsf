@@ -1,0 +1,19 @@
+{
+  "name": "ape sling",
+  "file": "ape sling.html",
+  "size": 23624684,
+  "sha256": "4bc9424ba3addafea44a5139da402b2c083009de3b925c306e815313b7203c4b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a2ec0438fed910a1d1c85843.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1b17dd057113eae4e3b2f43e.bin",
+      "size": 2653164
+    }
+  ]
+}

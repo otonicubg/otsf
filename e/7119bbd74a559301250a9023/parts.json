@@ -1,0 +1,19 @@
+{
+  "name": "parking fury 3",
+  "file": "parking fury 3.html",
+  "size": 24803291,
+  "sha256": "7cd762590462f143491083dd73725c7e83ff7bae21e3edbe1aaac6ce8343924c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1b6e0d1794c809f2ecbbb934.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4cc15857babacd19af9e43ad.bin",
+      "size": 3831771
+    }
+  ]
+}

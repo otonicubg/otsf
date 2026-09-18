@@ -1,0 +1,15 @@
+{
+  "name": "rocket soccer durbey",
+  "file": "rocket soccer durbey.html",
+  "size": 12680308,
+  "sha256": "de4eff8c616dd877c417527d47a71fd3c8fa95c03d2ecff6338e04d673a824f5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "10f8b7ed6647d8ede3669ff1.bin",
+      "size": 12680308
+    }
+  ]
+}

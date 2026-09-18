@@ -1,0 +1,15 @@
+{
+  "name": "shipo.io",
+  "file": "shipo.io.html",
+  "size": 6454842,
+  "sha256": "0e89fea7151d0b2841d8fe15be1c7f6460bc2d651b2cf222d9ddb873ecc8d6c4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7d4362e125816f7b4c99c39a.bin",
+      "size": 6454842
+    }
+  ]
+}

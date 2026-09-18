@@ -1,0 +1,15 @@
+{
+  "name": "worlds hardest game 3",
+  "file": "worlds hardest game 3.html",
+  "size": 15630001,
+  "sha256": "698e52657dd748ef3a403533a5a0ae687afbae94cd7f190975915d53999982a4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bcdba32d3ae8d4699cdf4eae.bin",
+      "size": 15630001
+    }
+  ]
+}

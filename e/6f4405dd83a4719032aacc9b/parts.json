@@ -1,0 +1,15 @@
+{
+  "name": "Sugar, Sugar",
+  "file": "Sugar, Sugar.html",
+  "size": 12243253,
+  "sha256": "1876f2757a8f9f61ebf1f0200e86b8819e498fa0b76a46e7832178f82aafb1e0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "68bbff095b1487cd56880138.bin",
+      "size": 12243253
+    }
+  ]
+}

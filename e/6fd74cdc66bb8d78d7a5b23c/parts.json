@@ -1,0 +1,15 @@
+{
+  "name": "sheep",
+  "file": "sheep.html",
+  "size": 5317977,
+  "sha256": "8f9dc28755c7487ad0bc6eeedce7a651ccd908e4d8c1ea3ee6381c6232036a54",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6db7e8185d24e8c4576cb754.bin",
+      "size": 5317977
+    }
+  ]
+}

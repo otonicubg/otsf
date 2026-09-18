@@ -1,0 +1,19 @@
+{
+  "name": "Papas Cupcakeria",
+  "file": "Papas Cupcakeria.html",
+  "size": 21267506,
+  "sha256": "332590e9e878211c7256b45a88538da624d9971f441b966a6ebc486b2a0d4bc9",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fdabbe673bc1da11f48244c2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8827880c700780a7f10c7611.bin",
+      "size": 295986
+    }
+  ]
+}
