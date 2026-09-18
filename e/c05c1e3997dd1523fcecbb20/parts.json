@@ -1,0 +1,19 @@
+{
+  "name": "head soccer",
+  "file": "head soccer.html",
+  "size": 21674182,
+  "sha256": "9df6d999bb8a77fd7379d2ea95bfa544155bb7b821f2ff403498cff726c3a70b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6790b629450844974c6da453.bin",
+      "size": 20971520
+    },
+    {
+      "name": "95c5c527e0031cff63fb8eaf.bin",
+      "size": 702662
+    }
+  ]
+}

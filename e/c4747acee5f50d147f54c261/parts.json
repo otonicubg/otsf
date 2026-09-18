@@ -1,0 +1,19 @@
+{
+  "name": "Vex 7",
+  "file": "Vex 7.html",
+  "size": 33946633,
+  "sha256": "dc24b37d2e49ce0bedaa70603d663c7bcac19f29be18123859f36db9918f1ed5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4f7246aa1e0f8766737fd360.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7ead0be54d8003c34fa82da4.bin",
+      "size": 12975113
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Bolts and Nuts",
+  "file": "Bolts and Nuts.html",
+  "size": 5032498,
+  "sha256": "66e6bab041fd59269862b5be1de9680bddb05abcb90767ab1942644cf24ea2cd",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9cf8cfe352ac66d1a1973bda.bin",
+      "size": 5032498
+    }
+  ]
+}
