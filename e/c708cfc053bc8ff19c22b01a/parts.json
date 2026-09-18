@@ -1,0 +1,19 @@
+{
+  "name": "eugenes life",
+  "file": "eugenes life.html",
+  "size": 38621180,
+  "sha256": "3bf255edfadefd7aabadc5765273b704c26c725665f02bc7174d70e2e25690a9",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "70a131e7b7775fb1e7520b15.bin",
+      "size": 20971520
+    },
+    {
+      "name": "14de72a99bc5e0a7c1b7c3b0.bin",
+      "size": 17649660
+    }
+  ]
+}

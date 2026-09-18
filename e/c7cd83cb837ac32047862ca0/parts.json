@@ -1,0 +1,15 @@
+{
+  "name": "stickshot",
+  "file": "stickshot.html",
+  "size": 16606087,
+  "sha256": "30a54850b78f332f675328dbd2de3f7025dbf9e223c2c208ee2deb4e48b95746",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9d719545cb678893d9124b3a.bin",
+      "size": 16606087
+    }
+  ]
+}

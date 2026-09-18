@@ -1,0 +1,15 @@
+{
+  "name": "Street Fighter 2",
+  "file": "Street Fighter 2.html",
+  "size": 5729319,
+  "sha256": "e7e940d8b2b6c48a7d1eb59f34564978a111ba8c615ae4ad5d97bb6793b8b1a9",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c3ec384ee9557548321f7461.bin",
+      "size": 5729319
+    }
+  ]
+}
