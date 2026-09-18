@@ -1,0 +1,15 @@
+{
+  "name": "goodbye doggy",
+  "file": "goodbye doggy.html",
+  "size": 3030861,
+  "sha256": "8082b0f85930f69885745359ad1a784203ddd87a46b949b644f4a51116542f90",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eb031d329c30dd6346999532.bin",
+      "size": 3030861
+    }
+  ]
+}

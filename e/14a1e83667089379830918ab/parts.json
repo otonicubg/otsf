@@ -1,0 +1,15 @@
+{
+  "name": "foot chinko",
+  "file": "foot chinko.html",
+  "size": 19188250,
+  "sha256": "c3c45b5fc658a05019b28f76aead4cd39817eec8a1305cd4ebb6ae269d01c495",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8bdc77191c6ec44f6f0f03da.bin",
+      "size": 19188250
+    }
+  ]
+}

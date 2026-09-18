@@ -1,0 +1,15 @@
+{
+  "name": "Coreball",
+  "file": "Coreball.html",
+  "size": 362087,
+  "sha256": "d183b85ea5847564a887a1a3309ddd52fdca0c0d941cd0e98d3751d92ba75a2d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1f71369919458084d8ba9311.bin",
+      "size": 362087
+    }
+  ]
+}
