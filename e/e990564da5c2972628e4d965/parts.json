@@ -1,0 +1,19 @@
+{
+  "name": "anyek the keyboard puzzle",
+  "file": "anyek the keyboard puzzle.html",
+  "size": 41362589,
+  "sha256": "e834a8c9a3a00613e6972cb54e35a1702885836594a4ce13943aa73812e4b430",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "14e33525eb0a56a6c5c5dd93.bin",
+      "size": 20971520
+    },
+    {
+      "name": "765682c000d3032d661ccc18.bin",
+      "size": 20391069
+    }
+  ]
+}

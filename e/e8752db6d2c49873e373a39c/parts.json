@@ -1,0 +1,15 @@
+{
+  "name": "zoro",
+  "file": "zoro.html",
+  "size": 103355,
+  "sha256": "4e3d02c5d52df21274df7cfbf23ff31e6c9f1611be0fb9e0e5a5619575aa7faa",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e76be8dc844680a6b87aa681.bin",
+      "size": 103355
+    }
+  ]
+}

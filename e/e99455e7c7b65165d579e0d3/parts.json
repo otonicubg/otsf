@@ -1,0 +1,15 @@
+{
+  "name": "minibattles",
+  "file": "minibattles.html",
+  "size": 19845178,
+  "sha256": "24e50fa0243978dd5c19e20056273e5dcd76c91bb744e7f22c9a85cff46c4b06",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "737f28730b2572ff78ae6505.bin",
+      "size": 19845178
+    }
+  ]
+}
