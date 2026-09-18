@@ -1,0 +1,151 @@
+{
+  "name": "eagler-launcher",
+  "file": "eagler-launcher.html",
+  "size": 725311797,
+  "sha256": "15ef3e0c744ae9a04a45aa748e9faf3a9f3c99b3a71403d226e96b163ae24ca4",
+  "partSize": 20971520,
+  "count": 35,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c91506a53d0f59bbaba35fc8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "450412a74aa52cadcf09550d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "798f8033df509c0dbf743c1a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ec8cd91a5c752f3d06c6ea40.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a1a9237d18ca679fc00c0641.bin",
+      "size": 20971520
+    },
+    {
+      "name": "31b38ae1158aaa904c0b8928.bin",
+      "size": 20971520
+    },
+    {
+      "name": "eeb14df5728b0e764aa59982.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8a99ba2b35611e53ba01e9e9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "311e4be3d7ebce1984319698.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8c1490563bd5c5dd27f0dc21.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5a3b50b7b9fb59fbf77af277.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a7f1a9d84be435f78c0a29f7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9af0b44eb1fe5c74e4564d12.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c0466c08bb06e2bdfcc4b3c3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4f08a6b12457d2a062daee5c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1b9649fe91bb49a8f0f4fbb3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "db6edfdd5a4fb5c686e477f5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a11cca09f91e2ca1053c2601.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cf44656f1fb45a6ca5c48880.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6156a7fd832781e229a0f336.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a04c386c885741c7107fe3b7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c7fbb9cf4157cd358fd24c8d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2eb15cb66602dba408a6c13f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ea29519b3470d385df06415d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b9912063d5c23fb2006c8f65.bin",
+      "size": 20971520
+    },
+    {
+      "name": "eff4dede1df2df6a145d1ac5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "72f09f50b602257aa6a031e2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0b362416e74a24a793c41ad1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0ba89bb90ba972b5e4a78fa9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7762ed0c9b6bd2c482d798b4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "098a51f87cee801a4fc078e7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4af5b0d4e19c7643d7df98bc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "48e7657391444ec08a03332f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e4593fedd0e51b83f858a78a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3e2f7f0391eaf6cdac3769a4.bin",
+      "size": 12280117
+    }
+  ]
+}

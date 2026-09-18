@@ -1,0 +1,15 @@
+{
+  "name": "Papas Pizzeria",
+  "file": "Papas Pizzeria.html",
+  "size": 14446828,
+  "sha256": "af2908715f96419dc4c80e76623eb30120e3e6720bbd81d28b3fbefff93f5198",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "10b43fca6559a758da3814ec.bin",
+      "size": 14446828
+    }
+  ]
+}
