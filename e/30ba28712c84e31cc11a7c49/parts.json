@@ -1,0 +1,15 @@
+{
+  "name": "Big Ice Tower Tiny Square",
+  "file": "Big Ice Tower Tiny Square.html",
+  "size": 10766153,
+  "sha256": "c1c62aa83c7ca552cc4fa80d122556a789ce5e15be77138994ba9a218c3ea932",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "97de8612c49545640261e226.bin",
+      "size": 10766153
+    }
+  ]
+}

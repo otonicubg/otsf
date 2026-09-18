@@ -1,0 +1,15 @@
+{
+  "name": "rocket pult",
+  "file": "rocket pult.html",
+  "size": 15542166,
+  "sha256": "5472ac877b7245fc5708d9c4531d8caf00890ade263d2a50dc9a5d85945c01c2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "094f64878d1778d7aead0af8.bin",
+      "size": 15542166
+    }
+  ]
+}

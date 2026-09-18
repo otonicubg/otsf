@@ -1,0 +1,19 @@
+{
+  "name": "learn to fly 3",
+  "file": "learn to fly 3.html",
+  "size": 30687370,
+  "sha256": "7685746838375141fc4829c4ed9511bfaf7e72e31a45a99a6e05e644fa02fc55",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6ad86b324617b1ebfc21d20e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7e5ced0834c9253837d86afc.bin",
+      "size": 9715850
+    }
+  ]
+}

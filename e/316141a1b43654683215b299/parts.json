@@ -1,0 +1,15 @@
+{
+  "name": "shuttledeck",
+  "file": "shuttledeck.html",
+  "size": 187263,
+  "sha256": "d5547bd41353289e4bd8fff5db9e68445b544c543ca73b971f52b58ea0c0c47b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fa7a2311ee603cc9f7608284.bin",
+      "size": 187263
+    }
+  ]
+}

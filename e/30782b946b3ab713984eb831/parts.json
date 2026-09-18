@@ -1,0 +1,15 @@
+{
+  "name": "sports",
+  "file": "sports.html",
+  "size": 333164,
+  "sha256": "480bc61096cefd36fe29d76067b3b6268bc23d1f04a5e0242696e0842a47b36a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "10a3fbe700fbf25239fcbabc.bin",
+      "size": 333164
+    }
+  ]
+}

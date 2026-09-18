@@ -1,0 +1,15 @@
+{
+  "name": "Web Retro",
+  "file": "Web Retro.html",
+  "size": 11162862,
+  "sha256": "b9be26e8c949a7effb232db86445daba37e631ce8c619897d115d6f28366763c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1d5d3b0bfbb39d4ff90afcaf.bin",
+      "size": 11162862
+    }
+  ]
+}
