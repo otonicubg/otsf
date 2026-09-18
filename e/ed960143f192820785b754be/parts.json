@@ -1,0 +1,31 @@
+{
+  "name": "find a way out",
+  "file": "find a way out.html",
+  "size": 91650720,
+  "sha256": "3fdaae510f940448e8f85d60b7731ede41553dbc8cc3a5535e1a3bc527664f63",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4d6842a4ca9530edf0c008a5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9768504757ec717dfb0be66c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "eb9848b5a80d22ebeb366b98.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d19178ac6bc112849e7a277c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ca20f95f293ee588ed69f885.bin",
+      "size": 7764640
+    }
+  ]
+}

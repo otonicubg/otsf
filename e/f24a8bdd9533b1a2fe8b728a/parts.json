@@ -1,0 +1,19 @@
+{
+  "name": "Papas Pasteria",
+  "file": "Papas Pasteria.html",
+  "size": 23127686,
+  "sha256": "7bc3bde4da33f8c76eb8b1f0c5c323373000bbb552c16dc8a45b4982a72c560c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9268c61f0f62f143aa37b3ef.bin",
+      "size": 20971520
+    },
+    {
+      "name": "445c78573da73b7c2bad2b1b.bin",
+      "size": 2156166
+    }
+  ]
+}

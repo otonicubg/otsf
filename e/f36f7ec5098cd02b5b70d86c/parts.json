@@ -1,0 +1,15 @@
+{
+  "name": "Duck Life",
+  "file": "Duck Life.html",
+  "size": 1884695,
+  "sha256": "3cc5fb21ad5268c3ed8d22ff81a0091a61463b0d913125d99ee236a8ccc66334",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7052bc08fbfda0b97d9f06a2.bin",
+      "size": 1884695
+    }
+  ]
+}

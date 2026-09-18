@@ -1,0 +1,23 @@
+{
+  "name": "To the core",
+  "file": "To the core.html",
+  "size": 60884152,
+  "sha256": "60e83a849f87dc342ada176f85f65cfae39860157277ea68df036098a77e8a70",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "95a014c62e3f74984a50c99f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7993b698fb1f85202307bc89.bin",
+      "size": 20971520
+    },
+    {
+      "name": "df6b611e4ee5803c591fdf25.bin",
+      "size": 18941112
+    }
+  ]
+}

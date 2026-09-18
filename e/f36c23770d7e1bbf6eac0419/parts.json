@@ -1,0 +1,15 @@
+{
+  "name": "Particle Clicker",
+  "file": "Particle Clicker.html",
+  "size": 1565499,
+  "sha256": "d38c6b7f407bf43e40dc6e478c20b0a1b6211612307d9245242143b5c9525f1b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1d8e238e661bd7a6d490e012.bin",
+      "size": 1565499
+    }
+  ]
+}

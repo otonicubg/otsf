@@ -1,0 +1,19 @@
+{
+  "name": "sonny2",
+  "file": "sonny2.html",
+  "size": 35134925,
+  "sha256": "65a24adc7c5c8be57925e9393e1527769633423216dd2e21bc7bd6f5012d54e0",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "565cf208002668146bab6444.bin",
+      "size": 20971520
+    },
+    {
+      "name": "944e537935d9e10a62a11191.bin",
+      "size": 14163405
+    }
+  ]
+}

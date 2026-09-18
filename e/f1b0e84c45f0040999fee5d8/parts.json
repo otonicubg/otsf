@@ -1,0 +1,19 @@
+{
+  "name": "mutato potato",
+  "file": "mutato potato.html",
+  "size": 23427159,
+  "sha256": "63befd2456e11aa4e62901a19c447662a80fb01e19a030c89eefbfb9569b08b5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c70e64162b6c1ede509e5716.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3b1aca74d7376f72463bd9e5.bin",
+      "size": 2455639
+    }
+  ]
+}

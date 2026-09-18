@@ -1,0 +1,15 @@
+{
+  "name": "sheep party",
+  "file": "sheep party.html",
+  "size": 3369998,
+  "sha256": "72958dc1551af847a4f2ad2e567cc073c8a8133d03057dbccfb0c846f88e3723",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f1061e8cf5db07aa18684427.bin",
+      "size": 3369998
+    }
+  ]
+}

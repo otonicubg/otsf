@@ -1,0 +1,15 @@
+{
+  "name": "cow bay",
+  "file": "cow bay.html",
+  "size": 16139958,
+  "sha256": "04a406a83ef0a49be46f8ff29ca13f7dee81b9e8ae170298898fea9e0da98956",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d467aded1a6af8cdae26f2c2.bin",
+      "size": 16139958
+    }
+  ]
+}
