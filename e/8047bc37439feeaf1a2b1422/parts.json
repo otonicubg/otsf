@@ -1,0 +1,19 @@
+{
+  "name": "armor mayhem",
+  "file": "armor mayhem.html",
+  "size": 22662278,
+  "sha256": "1d219a75ebdee5d33e1a284771600014d0121428147662e53b85730cd48b6f83",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b5cc2dbdee72b3dff25a1e54.bin",
+      "size": 20971520
+    },
+    {
+      "name": "21ba84850d4341108792a283.bin",
+      "size": 1690758
+    }
+  ]
+}

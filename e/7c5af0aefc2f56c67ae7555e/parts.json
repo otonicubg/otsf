@@ -1,0 +1,15 @@
+{
+  "name": "greedy mimic",
+  "file": "greedy mimic.html",
+  "size": 4527212,
+  "sha256": "617d649b037cc10fc974e5d1aba6c5dec79546a89412df47aa592acca8c0465e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "586da244a8bd5cb6c9d8fcf3.bin",
+      "size": 4527212
+    }
+  ]
+}

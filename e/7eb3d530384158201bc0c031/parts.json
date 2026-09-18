@@ -1,0 +1,15 @@
+{
+  "name": "solitaire",
+  "file": "solitaire.html",
+  "size": 598118,
+  "sha256": "2ef9d40da28c4b841ce923e6909c777a205bf10df5c18a9a56cd23ce41108e70",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3de430dff5898b5d55efbb21.bin",
+      "size": 598118
+    }
+  ]
+}

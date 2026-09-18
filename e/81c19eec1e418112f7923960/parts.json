@@ -1,0 +1,19 @@
+{
+  "name": "money movers 2",
+  "file": "money movers 2.html",
+  "size": 30735416,
+  "sha256": "6c88e5fafda1e927916ee12d7dd2bf9754b54e5c666c9a066b84d85abd6b8ac1",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6cfb19a8799fb496aa7d7ea4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "649ed2bd7a45cbcf98c0e506.bin",
+      "size": 9763896
+    }
+  ]
+}

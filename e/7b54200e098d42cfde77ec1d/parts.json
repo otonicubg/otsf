@@ -1,0 +1,15 @@
+{
+  "name": "sandtris",
+  "file": "sandtris.html",
+  "size": 10749972,
+  "sha256": "b3511c4ab2ad627fb0f0ef63f98db140de8f18e7eb1724fa065dfda987a3b384",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "be428bb493c84706f5c5ff46.bin",
+      "size": 10749972
+    }
+  ]
+}
