@@ -1,0 +1,15 @@
+{
+  "name": "Chimney Trouble",
+  "file": "Chimney Trouble.html",
+  "size": 13625530,
+  "sha256": "1ed53c5670352a785b19afe5469f7c73a5e7b393533e59b05dffed667950b1e2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2aae32f0c61eb39a446e3685.bin",
+      "size": 13625530
+    }
+  ]
+}

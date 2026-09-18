@@ -1,0 +1,19 @@
+{
+  "name": "idle digging tycoon",
+  "file": "idle digging tycoon.html",
+  "size": 30506653,
+  "sha256": "ba5d7b00797613c30969b9cdd7cf7a271f140fe651167ba599caa487041ff9b5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dbea23d15fccf8fc79fd149a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9802d9ee8dcec583b89f23c9.bin",
+      "size": 9535133
+    }
+  ]
+}

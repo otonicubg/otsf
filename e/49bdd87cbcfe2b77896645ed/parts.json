@@ -1,0 +1,15 @@
+{
+  "name": "pong",
+  "file": "pong.html",
+  "size": 109811,
+  "sha256": "37623238b3e959efb69d4c2d3f481a25af2be6f95ac8dee99983b38c412e8093",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d6a2b95a27eb1745ad934947.bin",
+      "size": 109811
+    }
+  ]
+}

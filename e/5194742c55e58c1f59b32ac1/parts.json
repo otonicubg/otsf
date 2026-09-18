@@ -1,0 +1,15 @@
+{
+  "name": "cordovan",
+  "file": "cordovan.html",
+  "size": 9702486,
+  "sha256": "efeeb2e3f653b4965d93fe7e9ff804791b8653eb961c2d5fa84a8f34882308b0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "61f4ae7945b4f9d90c6e4f73.bin",
+      "size": 9702486
+    }
+  ]
+}

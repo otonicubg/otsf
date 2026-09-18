@@ -1,0 +1,19 @@
+{
+  "name": "push the box",
+  "file": "push the box.html",
+  "size": 36729228,
+  "sha256": "0c999e6064e735abe251aa626ccc4b818a16647830178e227a9ce9f90da4510d",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "891332d7dd714b25336b9520.bin",
+      "size": 20971520
+    },
+    {
+      "name": "33ebc9067976e4b566d69125.bin",
+      "size": 15757708
+    }
+  ]
+}

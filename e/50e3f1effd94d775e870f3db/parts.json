@@ -1,0 +1,15 @@
+{
+  "name": "strg snek",
+  "file": "strg snek.html",
+  "size": 11120927,
+  "sha256": "2f6f2935adde7ef9ee984604ace98fd3b87d4759b8cd032f7865211774a4f245",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "436578c7a13731ae5a2cf4d5.bin",
+      "size": 11120927
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "bearsus",
+  "file": "bearsus.html",
+  "size": 21203829,
+  "sha256": "a97f21ae97fa7ea39e83a14ae504348f7b4d535bacef9e4ad6f0972a4f700666",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "530d2c471fe33804d6ca01df.bin",
+      "size": 20971520
+    },
+    {
+      "name": "be32b2b4c5e15a7ba221a079.bin",
+      "size": 232309
+    }
+  ]
+}

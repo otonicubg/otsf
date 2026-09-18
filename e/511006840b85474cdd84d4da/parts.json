@@ -1,0 +1,15 @@
+{
+  "name": "super mario world",
+  "file": "super mario world.html",
+  "size": 491742,
+  "sha256": "ded57cc4fe99393c76586b61ddef9842ddf97c7157195d7d20c09f68b2168b64",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eb64a08f8ed6713a16a5c1db.bin",
+      "size": 491742
+    }
+  ]
+}

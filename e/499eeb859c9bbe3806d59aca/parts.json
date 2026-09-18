@@ -1,0 +1,15 @@
+{
+  "name": "3 Pandas 1",
+  "file": "3 Pandas 1.html",
+  "size": 19853672,
+  "sha256": "973802827570bf9ffc38e429b59732f0301717f1d00e2941b0fc6ea58bfeece8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1eb569ed8bfeaf395c2a6f81.bin",
+      "size": 19853672
+    }
+  ]
+}
