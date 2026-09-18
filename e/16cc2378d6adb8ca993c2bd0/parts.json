@@ -1,0 +1,15 @@
+{
+  "name": "pool club",
+  "file": "pool club.html",
+  "size": 16945463,
+  "sha256": "e95fe2e981648ccbe0a9902987bbb38d4234ddc2dd01457bdc78828b8937dbce",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c7c8319f948c866c619eae5b.bin",
+      "size": 16945463
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "orbital survival",
+  "file": "orbital survival.html",
+  "size": 23121873,
+  "sha256": "e23f24be8b4a50bea1bf3ac04e290087a044a79509d43571a32919f727da5e72",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "99a3c86a61bbfa7a27172299.bin",
+      "size": 20971520
+    },
+    {
+      "name": "587519a50b30e294bda609e7.bin",
+      "size": 2150353
+    }
+  ]
+}

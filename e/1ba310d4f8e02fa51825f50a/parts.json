@@ -1,0 +1,15 @@
+{
+  "name": "Papas Pancakeria",
+  "file": "Papas Pancakeria.html",
+  "size": 18550538,
+  "sha256": "06878b73457f3c7bfc3f0dc36a84a7a21f565507c8e671849e876b59cdef333d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e2144cd62dcddae2a9b21f51.bin",
+      "size": 18550538
+    }
+  ]
+}

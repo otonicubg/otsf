@@ -1,0 +1,15 @@
+{
+  "name": "stickman warriers",
+  "file": "stickman warriers.html",
+  "size": 11275649,
+  "sha256": "48462671ec8c944fcb6e8886a168750b20bc2bb9d843e35964849a8eed95b846",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8ebd319ed6f88bc8ded57578.bin",
+      "size": 11275649
+    }
+  ]
+}

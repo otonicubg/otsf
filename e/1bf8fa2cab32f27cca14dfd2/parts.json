@@ -1,0 +1,15 @@
+{
+  "name": "finalearth2",
+  "file": "finalearth2.html",
+  "size": 11892886,
+  "sha256": "18573e2e20f9bac2a32947c9213c8ab4e8d2d82e8c94dc43e9dfdc88af72c5e3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1db403ce567aee9bd2521f92.bin",
+      "size": 11892886
+    }
+  ]
+}

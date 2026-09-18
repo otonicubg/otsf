@@ -1,0 +1,27 @@
+{
+  "name": "Untitled goose game",
+  "file": "Untitled goose game.html",
+  "size": 69459841,
+  "sha256": "01a8dc1e10596ce364fed19f028308fdf3ae6b048ab39d6bf491a6c684990226",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8a7bc93ae220f292ce3260d5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8dde8b172dbd712fceb648ce.bin",
+      "size": 20971520
+    },
+    {
+      "name": "17be5eb11c539902a5c47fa7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e3a1901dffd3e15ec124369a.bin",
+      "size": 6545281
+    }
+  ]
+}

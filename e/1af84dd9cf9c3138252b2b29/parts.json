@@ -1,0 +1,15 @@
+{
+  "name": "minecraft case simulator",
+  "file": "minecraft case simulator.html",
+  "size": 18461801,
+  "sha256": "2d3d06608be0e0419a1b027dc2fcd9d8d012944878f92aeffb186bb43619398a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8e44f93861f1337dc8e5b406.bin",
+      "size": 18461801
+    }
+  ]
+}
