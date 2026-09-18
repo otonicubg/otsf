@@ -1,0 +1,15 @@
+{
+  "name": "basket legend 2020",
+  "file": "basket legend 2020.html",
+  "size": 16610191,
+  "sha256": "20959a9ed21e11856d21116e309a856ee4e16c3b665828b639fe88d36fe16b13",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "de52ef32f6d222f2aa0a23df.bin",
+      "size": 16610191
+    }
+  ]
+}

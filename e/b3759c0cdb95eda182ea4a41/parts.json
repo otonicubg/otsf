@@ -1,0 +1,15 @@
+{
+  "name": "jacksmith",
+  "file": "jacksmith.html",
+  "size": 18627986,
+  "sha256": "d5cd16e7839776e90f098219d2de42c282eb53e777cd1c702013e2899ade0a98",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "056dc4182f3eb5dacf512c8b.bin",
+      "size": 18627986
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Pokemon Fire Red",
+  "file": "Pokemon Fire Red.html",
+  "size": 6142045,
+  "sha256": "c2cd7ee1178bc9b774eccc8156450534333fe4be5c0a8510b6cb290410ef9ac1",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c9c3593e16afa679f0977b3f.bin",
+      "size": 6142045
+    }
+  ]
+}

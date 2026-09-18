@@ -1,0 +1,19 @@
+{
+  "name": "shoot stickman",
+  "file": "shoot stickman.html",
+  "size": 21300586,
+  "sha256": "44d9aeb176514644fd1a8f8746751240d04aefa22e7080c7a1e355126901a845",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8d52ccb8c792baff62fde7f0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "aa4086ffe8891b6d652532d8.bin",
+      "size": 329066
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Dreader",
+  "file": "Dreader.html",
+  "size": 20140810,
+  "sha256": "a6df4d6ddb02bcc93dff25a6157dda5f3f20f79b93b2f0644149ba56fcdbc11f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c27de8f9b7e0380ac5451aa5.bin",
+      "size": 20140810
+    }
+  ]
+}

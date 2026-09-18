@@ -1,0 +1,15 @@
+{
+  "name": "tower of destiny",
+  "file": "tower of destiny.html",
+  "size": 16431176,
+  "sha256": "540b6262078f8623973bd7c0e9967ee259ebb7597400f32b0f5dfde23474d31a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "544e52d421a3ed73cd754c6c.bin",
+      "size": 16431176
+    }
+  ]
+}
