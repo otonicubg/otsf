@@ -1,0 +1,39 @@
+{
+  "name": "FNAE",
+  "file": "FNAE.html",
+  "size": 129136908,
+  "sha256": "54ef334cea8c48def7b0e9d34d0515a89becd025fbd29fe7a5f5b2d00e59cd00",
+  "partSize": 20971520,
+  "count": 7,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8ac7e6be00e4fedf88fd0b39.bin",
+      "size": 20971520
+    },
+    {
+      "name": "86b6428c99526b182407fcb8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "153f8bb3e5959a66e19e9299.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4163ff249eb0803fc35ca04d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9b29df0ccc7a55a72a90c48c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "995bc9650bd92d417f25fc10.bin",
+      "size": 20971520
+    },
+    {
+      "name": "174a23543fa551d024edbf63.bin",
+      "size": 3307788
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "gobo desert of cubes",
+  "file": "gobo desert of cubes.html",
+  "size": 86343613,
+  "sha256": "9b16323974bd9f7609b872327a2cb3fd84bbf5fad7c6343816b498b5abb8b273",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6c54dee71fe65528a15b612c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a38a24d7e772bd2d0c29b749.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3e640b7f5cbb8c22da048a9a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6140b6f85b08ba9b1c7c3772.bin",
+      "size": 20971520
+    },
+    {
+      "name": "858182aa038bfb103f6f1628.bin",
+      "size": 2457533
+    }
+  ]
+}

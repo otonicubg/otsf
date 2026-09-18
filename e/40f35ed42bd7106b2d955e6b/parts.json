@@ -1,0 +1,15 @@
+{
+  "name": "logica emotica",
+  "file": "logica emotica.html",
+  "size": 6901112,
+  "sha256": "383b44965d59bda968ff20311d062e44ae351243f14a06e190e9f5951f9af239",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8e64178be5637feb1abce893.bin",
+      "size": 6901112
+    }
+  ]
+}

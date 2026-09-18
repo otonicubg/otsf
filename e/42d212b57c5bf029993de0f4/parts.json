@@ -1,0 +1,15 @@
+{
+  "name": "babel tower",
+  "file": "babel tower.html",
+  "size": 7387230,
+  "sha256": "44120d0ef161f9a962125a137fdeed8a389e98c73547ae6dd905b8f9d86026ca",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c7ecd9c8e562062feca191cd.bin",
+      "size": 7387230
+    }
+  ]
+}

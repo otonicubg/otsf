@@ -1,0 +1,15 @@
+{
+  "name": "b-side",
+  "file": "b-side.html",
+  "size": 12377657,
+  "sha256": "067e50a9220145b6133775a284f543912e997d037b2d659c59cbea5f8c2a518e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "112a4bda18dfe32e03b539f5.bin",
+      "size": 12377657
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "deepest sword",
+  "file": "deepest sword.html",
+  "size": 10870099,
+  "sha256": "f73e81e4c475194d10cd6886816e459813c5b27a39439f85e008772e948dea55",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4f7c895b57aa603b5a577823.bin",
+      "size": 10870099
+    }
+  ]
+}

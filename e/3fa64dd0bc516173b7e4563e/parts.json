@@ -1,0 +1,23 @@
+{
+  "name": "Slender",
+  "file": "Slender.html",
+  "size": 48759309,
+  "sha256": "8fe12ca01dab23b0e60e0179f90b50267871e263b0afaa48ac2566fe0cb11e01",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ceb50945df6eb4f07fbee151.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4e7453fdfd4cc2e2c3c8b793.bin",
+      "size": 20971520
+    },
+    {
+      "name": "af38196843210fdf9da5f2d3.bin",
+      "size": 6816269
+    }
+  ]
+}

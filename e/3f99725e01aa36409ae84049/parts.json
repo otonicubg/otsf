@@ -1,0 +1,15 @@
+{
+  "name": "Impossible Quiz",
+  "file": "Impossible Quiz.html",
+  "size": 8528932,
+  "sha256": "8c5ec4bbea1a93db3c138821c836b9f896c284b78fd3a0e8019771e8c7d7d5aa",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a142026d75ad7bc9969ef565.bin",
+      "size": 8528932
+    }
+  ]
+}

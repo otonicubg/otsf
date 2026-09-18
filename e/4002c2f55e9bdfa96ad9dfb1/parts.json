@@ -1,0 +1,15 @@
+{
+  "name": "snow-rider-3d",
+  "file": "snow-rider-3d.html",
+  "size": 16201105,
+  "sha256": "400b7129201e44a82157ef2452cc489cd54b598ace332ca189925d66606648ab",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "37cbd8b720efe91149f352ee.bin",
+      "size": 16201105
+    }
+  ]
+}

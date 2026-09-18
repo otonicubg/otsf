@@ -1,0 +1,15 @@
+{
+  "name": "idle gold miner",
+  "file": "idle gold miner.html",
+  "size": 19663775,
+  "sha256": "a5f0fd8c31c12c6b198f04d1d678bbd057d56f73a54ee253c36dc33333a59c88",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "29b4489decb4593a9fe6339f.bin",
+      "size": 19663775
+    }
+  ]
+}

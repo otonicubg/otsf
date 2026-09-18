@@ -1,0 +1,15 @@
+{
+  "name": "smashkarts",
+  "file": "smashkarts.html",
+  "size": 84077,
+  "sha256": "910e663997509757fb33497f468237bdf50c820e78be7a41eadeba06dfc99d17",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "24ec5ddb9eba39a3d981e245.bin",
+      "size": 84077
+    }
+  ]
+}

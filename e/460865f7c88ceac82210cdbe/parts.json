@@ -1,0 +1,15 @@
+{
+  "name": "Orcs vs elves",
+  "file": "Orcs vs elves.html",
+  "size": 1822339,
+  "sha256": "b527b58ccda169f1b366961020d1fbf5cc339ba2abc955c99bd53187eeaa6a4e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d7df0cffd8b5401ed13d8b4b.bin",
+      "size": 1822339
+    }
+  ]
+}
