@@ -1,0 +1,15 @@
+{
+  "name": "Patricks parabox",
+  "file": "Patricks parabox.html",
+  "size": 714261,
+  "sha256": "8870d02181967e0b217edcf11937b9ce54e70ae1603d6fe59494aa5aba8047bc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7318d88f6a570d73ae463ee9.bin",
+      "size": 714261
+    }
+  ]
+}

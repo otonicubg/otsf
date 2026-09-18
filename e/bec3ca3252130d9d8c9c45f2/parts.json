@@ -1,0 +1,15 @@
+{
+  "name": "basketbros.io",
+  "file": "basketbros.io.html",
+  "size": 6276680,
+  "sha256": "fbb7b164cd9e230a842088d755c1857f876c9a64b79e841ff7b95286ef337080",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4081b071184e491d1dbf5498.bin",
+      "size": 6276680
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "circlo",
+  "file": "circlo.html",
+  "size": 3751684,
+  "sha256": "7650c4c8c933c982058ca5946d064ddb42f37b24f3ad316d7338a3cb09c0f8f0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cc56f4f92ca668b7b504012e.bin",
+      "size": 3751684
+    }
+  ]
+}
