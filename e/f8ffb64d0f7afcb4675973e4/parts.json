@@ -1,0 +1,15 @@
+{
+  "name": "hanger",
+  "file": "hanger.html",
+  "size": 13593847,
+  "sha256": "0411427c7b0e4fb4983e25be3d5c1bb546579c141a512d78617042afd5533eb7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ab6c5d726960e9bbb0166286.bin",
+      "size": 13593847
+    }
+  ]
+}

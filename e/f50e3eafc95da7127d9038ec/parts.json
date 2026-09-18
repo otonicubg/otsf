@@ -1,0 +1,15 @@
+{
+  "name": "tank.io",
+  "file": "tank.io.html",
+  "size": 332121,
+  "sha256": "2a9d6be1322dabf6879a4ff6cd51864e0111340a325f868376a07e0bc2d98b30",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "28d4f233cf04d15cf24f7ff3.bin",
+      "size": 332121
+    }
+  ]
+}

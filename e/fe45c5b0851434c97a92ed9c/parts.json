@@ -1,0 +1,15 @@
+{
+  "name": "noob hook",
+  "file": "noob hook.html",
+  "size": 16057345,
+  "sha256": "e2704893675c5c14a86f083e43bb9343338cd65e0a11f53b0fef5b88e9b6727f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9200edac1c498e0a3d88fbe3.bin",
+      "size": 16057345
+    }
+  ]
+}

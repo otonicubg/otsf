@@ -1,0 +1,19 @@
+{
+  "name": "sling drift",
+  "file": "sling drift.html",
+  "size": 21072348,
+  "sha256": "f0c740f13d42d3aa599111ce0aa1287d8472ba5876c93148a7f35973773da3ce",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ac47af10c5f553c997b5265f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "368ff0c3aca1510475cccae8.bin",
+      "size": 100828
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Ages of Conflict",
+  "file": "Ages of Conflict.html",
+  "size": 14001724,
+  "sha256": "9b7db178a51a12133a92a548c79b3ec99e4162be7d52eed68d192fb16bf6fa3a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "30b9cd0c8c87c178436d18c9.bin",
+      "size": 14001724
+    }
+  ]
+}

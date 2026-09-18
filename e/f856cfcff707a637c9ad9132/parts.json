@@ -1,0 +1,15 @@
+{
+  "name": "pack a bag",
+  "file": "pack a bag.html",
+  "size": 20232494,
+  "sha256": "a3009cadf7c651ad27bc94febac974b8d6cf793a0f28c365addf78b2662c1059",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b596826cccefda6503c76343.bin",
+      "size": 20232494
+    }
+  ]
+}

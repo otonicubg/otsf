@@ -1,0 +1,15 @@
+{
+  "name": "gobdun",
+  "file": "gobdun.html",
+  "size": 18004761,
+  "sha256": "8c0cd4e42d23e027886c86c6ae83b48d44890e0ae769ecdd83222e881f0edf4f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "239473d6c4975afd898c3e88.bin",
+      "size": 18004761
+    }
+  ]
+}

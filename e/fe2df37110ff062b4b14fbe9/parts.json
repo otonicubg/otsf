@@ -1,0 +1,15 @@
+{
+  "name": "Jelly Bots",
+  "file": "Jelly Bots.html",
+  "size": 1898304,
+  "sha256": "8432bed20046f2d9d1f332cdcfc7b4a0391bbcf5a88650c78e8092d945559d18",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1db910945c24843fe8870f38.bin",
+      "size": 1898304
+    }
+  ]
+}
