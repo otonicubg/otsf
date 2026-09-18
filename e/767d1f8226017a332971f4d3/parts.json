@@ -1,0 +1,15 @@
+{
+  "name": "Tarzan Ball",
+  "file": "Tarzan Ball.html",
+  "size": 14010568,
+  "sha256": "09747dd2467047332430b39b2d7a933d2f8386b9ccecce8c30ce135af0f5abab",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "deaed81ac4f4f681d85f76b9.bin",
+      "size": 14010568
+    }
+  ]
+}
