@@ -1,0 +1,19 @@
+{
+  "name": "arcade wizard",
+  "file": "arcade wizard.html",
+  "size": 24462697,
+  "sha256": "3d5fab1d3fac62806cf8baea0c4494cc45ae283156312520608fb843ec526a47",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4c69c2abced8e25f0b716fe4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "aa7f4dfce4b3442f61f7eb31.bin",
+      "size": 3491177
+    }
+  ]
+}

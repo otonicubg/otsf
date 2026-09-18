@@ -1,0 +1,15 @@
+{
+  "name": "Bad Icecream",
+  "file": "Bad Icecream.html",
+  "size": 5862531,
+  "sha256": "6eb53ace733cbbabaaddcc4e1e24bb9814b03076455f0d53ba41f6bc00bdaba1",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dd622adfc2f478846c1ca863.bin",
+      "size": 5862531
+    }
+  ]
+}

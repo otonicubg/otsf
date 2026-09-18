@@ -1,0 +1,15 @@
+{
+  "name": "Tron",
+  "file": "Tron.html",
+  "size": 11533652,
+  "sha256": "9ad9d203da644ce987852d15df3b38cec40e4c76b19a287533a77ade6dc288a3",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "31a5d764bb44f2725a643e2b.bin",
+      "size": 11533652
+    }
+  ]
+}

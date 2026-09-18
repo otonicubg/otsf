@@ -1,0 +1,15 @@
+{
+  "name": "NG stars",
+  "file": "NG stars.html",
+  "size": 19681208,
+  "sha256": "fbc8511fd2592eaebbe4979a63f2ac52c3c25c55852ac491058ce4ed03f1288e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8ba0611980461ae263e54e43.bin",
+      "size": 19681208
+    }
+  ]
+}

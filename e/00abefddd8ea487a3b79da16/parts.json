@@ -1,0 +1,15 @@
+{
+  "name": "dyna boy",
+  "file": "dyna boy.html",
+  "size": 16272831,
+  "sha256": "57b52ddd3534c7f5b8068fe971e024b3b67e6574e2187584e60cd0c4b677fccc",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "57bcb12154fee7fce3de5901.bin",
+      "size": 16272831
+    }
+  ]
+}

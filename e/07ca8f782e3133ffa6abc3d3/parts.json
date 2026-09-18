@@ -1,0 +1,15 @@
+{
+  "name": "Basket Random",
+  "file": "Basket Random.html",
+  "size": 3998711,
+  "sha256": "22f6d4e2b7ea8540e7aef668ec232d38a7d84e27560f366959cfc40322696f4f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a515662f20053188f0d59b0d.bin",
+      "size": 3998711
+    }
+  ]
+}

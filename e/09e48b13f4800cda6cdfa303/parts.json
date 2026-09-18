@@ -1,0 +1,19 @@
+{
+  "name": "among us.io",
+  "file": "among us.io.html",
+  "size": 33878636,
+  "sha256": "0e5dae570699bb4b48b0c6aa2ff4323de042bc6fa87a1ce09e930ff2b86957f9",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8b3157f9742eca53e5ed515c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "02e5b8b45fda7701b9aeea61.bin",
+      "size": 12907116
+    }
+  ]
+}

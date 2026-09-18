@@ -1,0 +1,15 @@
+{
+  "name": "we become what we behold",
+  "file": "we become what we behold.html",
+  "size": 10660288,
+  "sha256": "40757c21344e4e7b4640328406e1a218727e3cf58c3b81d5269bd08e5ff381c1",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "de0528d7bb907c23da043842.bin",
+      "size": 10660288
+    }
+  ]
+}

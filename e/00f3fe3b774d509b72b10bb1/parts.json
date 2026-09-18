@@ -1,0 +1,15 @@
+{
+  "name": "magnet master redux",
+  "file": "magnet master redux.html",
+  "size": 14366609,
+  "sha256": "a00e40116dc693411ef9e1accd026686b14709e057b4aee66d51358fa455a944",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "50b9a3497a9548d710ec5655.bin",
+      "size": 14366609
+    }
+  ]
+}

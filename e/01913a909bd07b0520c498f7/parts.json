@@ -1,0 +1,19 @@
+{
+  "name": "stealing the diamond",
+  "file": "stealing the diamond.html",
+  "size": 27713779,
+  "sha256": "9f8cfad1ce0358988248ae6bea1e870f8e8d4feea440cdbb73594be138a0e5dc",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4c2312c6bca03dabdcbc74c4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c881374aee55f1278d0a6413.bin",
+      "size": 6742259
+    }
+  ]
+}
