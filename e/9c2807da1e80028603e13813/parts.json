@@ -1,0 +1,15 @@
+{
+  "name": "mad pirate skeleton",
+  "file": "mad pirate skeleton.html",
+  "size": 5460705,
+  "sha256": "f29e83d04c372d45f4899274be96e126d4a96feb26f0e75c1c8b5ca61c404fbe",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2d205389af26600c14aab54d.bin",
+      "size": 5460705
+    }
+  ]
+}

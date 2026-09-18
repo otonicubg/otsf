@@ -1,0 +1,15 @@
+{
+  "name": "retro bowl college",
+  "file": "retro bowl college.html",
+  "size": 16296893,
+  "sha256": "e9a0ce0b4d050e9006ee76f780c946333de76406dce65450825fe77ad85d3ff8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e54d5ab14b12b5a996a17cab.bin",
+      "size": 16296893
+    }
+  ]
+}

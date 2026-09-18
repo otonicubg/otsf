@@ -1,0 +1,15 @@
+{
+  "name": "draw the hill",
+  "file": "draw the hill.html",
+  "size": 3375808,
+  "sha256": "bf4c5151f131890fa58467664c9ccf96592b272e4230847e8f7c58f7ae871530",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c46419c1fb624beaec19fc5c.bin",
+      "size": 3375808
+    }
+  ]
+}

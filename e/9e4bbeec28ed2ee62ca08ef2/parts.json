@@ -1,0 +1,15 @@
+{
+  "name": "slide box",
+  "file": "slide box.html",
+  "size": 17970642,
+  "sha256": "cf06636fde14ba506015b5e67f65ecd02b9032404b4dcaa36a37d3150b1a5607",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "630d835016c64d412ab68380.bin",
+      "size": 17970642
+    }
+  ]
+}

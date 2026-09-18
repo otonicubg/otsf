@@ -1,0 +1,19 @@
+{
+  "name": "Papas Scooperia",
+  "file": "Papas Scooperia.html",
+  "size": 34495881,
+  "sha256": "8d3a7d1723de7e7796cd7ff89383e5505823af62d8e5a9e31d2b8e0ae51f58b9",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fa2d4e0e2221c45db9037022.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6d3f1eca23058603921abf9c.bin",
+      "size": 13524361
+    }
+  ]
+}

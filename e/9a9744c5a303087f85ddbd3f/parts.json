@@ -1,0 +1,15 @@
+{
+  "name": "Fancy Pants 1",
+  "file": "Fancy Pants 1.html",
+  "size": 14297125,
+  "sha256": "65f72ea75d2da14499a7f308d0308574f6f42e7d345d2391e6684738b7b39918",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "104e37cdc2b3933608c025b4.bin",
+      "size": 14297125
+    }
+  ]
+}

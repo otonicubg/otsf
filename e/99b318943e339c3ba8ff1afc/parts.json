@@ -1,0 +1,15 @@
+{
+  "name": "hasty shaman",
+  "file": "hasty shaman.html",
+  "size": 10647160,
+  "sha256": "4d1c5a5e6d8245db5674864930a379d60f0a7e4294de2c274cdb079547073a7d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "35d7795b47842893199f1ee1.bin",
+      "size": 10647160
+    }
+  ]
+}

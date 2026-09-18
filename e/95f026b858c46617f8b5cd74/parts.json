@@ -1,0 +1,19 @@
+{
+  "name": "time shooter 3",
+  "file": "time shooter 3.html",
+  "size": 24409317,
+  "sha256": "fbed2685d0aa0890a88e7bf08cb0565113fd86f5a6361c39fd75daa2c841275c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9a1e4421a4bce0134febf5d6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6ce9e1fddcef468814baa232.bin",
+      "size": 3437797
+    }
+  ]
+}
