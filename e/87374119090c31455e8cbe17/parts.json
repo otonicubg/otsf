@@ -1,0 +1,19 @@
+{
+  "name": "car rush",
+  "file": "car rush.html",
+  "size": 23479330,
+  "sha256": "054c8ffdc5fd1a8bb790837139956bbecef7ee3457dfcb92e9de007fe6bb1ad4",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6f862826360a792c5e507027.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9e845c57bc20d7bfe9abebde.bin",
+      "size": 2507810
+    }
+  ]
+}

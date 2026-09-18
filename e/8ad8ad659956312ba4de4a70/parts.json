@@ -1,0 +1,15 @@
+{
+  "name": "stickman boost",
+  "file": "stickman boost.html",
+  "size": 16215205,
+  "sha256": "465a7f7d9da61f78c7ca6d7ce77c0dd5d743e3e4db0cd5399ae3c4b52edbc70e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2a2b64803d6cae33290065c7.bin",
+      "size": 16215205
+    }
+  ]
+}

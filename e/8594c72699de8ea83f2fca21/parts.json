@@ -1,0 +1,19 @@
+{
+  "name": "mafia wars",
+  "file": "mafia wars.html",
+  "size": 23143312,
+  "sha256": "7abd7ed3350f91e338bc082944f7a7d7c10c11d419113cae13a1b3fe0b7d2114",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f7bc4c7014e8fe63aa35613a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "db9bfb83f4690002e2deca13.bin",
+      "size": 2171792
+    }
+  ]
+}

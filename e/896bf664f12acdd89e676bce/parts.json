@@ -1,0 +1,23 @@
+{
+  "name": "Ultrakill",
+  "file": "Ultrakill.html",
+  "size": 62533822,
+  "sha256": "5ff74ebe921c52638a3172143023f6f02b5d9bbedf9b9becbcf656bf4de123df",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "80aac9bb49503f4f540fd28f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "28ff4d02fc9d3d4846c90809.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8b2525ba454f8d2649552302.bin",
+      "size": 20590782
+    }
+  ]
+}

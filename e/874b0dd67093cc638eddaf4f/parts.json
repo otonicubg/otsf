@@ -1,0 +1,15 @@
+{
+  "name": "awesome tanks 2",
+  "file": "awesome tanks 2.html",
+  "size": 18576478,
+  "sha256": "1ae58ae76c16d6bdfd0b63f65a67066b6841061fe5246e1fa1f2d4fd3e4c85f8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9784d01fb5b5772cedd4fa93.bin",
+      "size": 18576478
+    }
+  ]
+}

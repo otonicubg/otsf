@@ -1,0 +1,15 @@
+{
+  "name": "disc us",
+  "file": "disc us.html",
+  "size": 749750,
+  "sha256": "4c6d19ecbf5885b97760d9e9f4f85330178846080da24c2cc3c33f2f4a16bbc2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "75379adaf7860cabe9190a80.bin",
+      "size": 749750
+    }
+  ]
+}

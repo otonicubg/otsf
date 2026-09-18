@@ -1,0 +1,15 @@
+{
+  "name": "catpad",
+  "file": "catpad.html",
+  "size": 17790000,
+  "sha256": "897fd876bda075efa32dfc39427dbb6cc71f6efca4acf3688b7fa2337391b2e5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2781ab37514b63f322a6ca71.bin",
+      "size": 17790000
+    }
+  ]
+}
