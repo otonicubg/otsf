@@ -1,0 +1,15 @@
+{
+  "name": "Epic Boss Fighter",
+  "file": "Epic Boss Fighter.html",
+  "size": 18599650,
+  "sha256": "f3963ecd81c267b57855c9b77d67e8cf98e3d69043401b9219be61d5dd1da682",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a886ccc86c57799ebadd7651.bin",
+      "size": 18599650
+    }
+  ]
+}

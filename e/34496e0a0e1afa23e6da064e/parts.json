@@ -1,0 +1,15 @@
+{
+  "name": "renegade racing",
+  "file": "renegade racing.html",
+  "size": 18983897,
+  "sha256": "68320e8a3655314351c433c61f4d50e7a3e4ea518ac5f15eb3933a1c1abeb44b",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5a2c0aee60d9b906c23d7044.bin",
+      "size": 18983897
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "volleyball challange",
+  "file": "volleyball challange.html",
+  "size": 81347904,
+  "sha256": "d9a8ac73bdcf428917c0ef768fea18ebcdbb87b64880cfce63819cd7f765e83f",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f18c4a16691b18585ad44960.bin",
+      "size": 20971520
+    },
+    {
+      "name": "79bec5feb25998fd3737b503.bin",
+      "size": 20971520
+    },
+    {
+      "name": "21ee7493cd82472d7f22a1c1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3bafd22e0417a5318bb3973e.bin",
+      "size": 18433344
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hot Dog Bush",
+  "file": "Hot Dog Bush.html",
+  "size": 14601608,
+  "sha256": "ebd8917a7303a30b01f3762883deb83a176f908db7c2e74878cb68224179861a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "52d270a6b4ba2f356b032de4.bin",
+      "size": 14601608
+    }
+  ]
+}

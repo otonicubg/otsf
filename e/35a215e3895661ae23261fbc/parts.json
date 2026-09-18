@@ -1,0 +1,15 @@
+{
+  "name": "hide and smash",
+  "file": "hide and smash.html",
+  "size": 19874226,
+  "sha256": "2d36283d6aa8dd4bff1e0aa1e2d002ae3a0cb6df371b3112846cbf72228e0a4f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0f0aa072b0ab7a5d14073452.bin",
+      "size": 19874226
+    }
+  ]
+}

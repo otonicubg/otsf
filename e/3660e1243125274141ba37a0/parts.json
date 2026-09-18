@@ -1,0 +1,15 @@
+{
+  "name": "wordle",
+  "file": "wordle.html",
+  "size": 363931,
+  "sha256": "b2f557622fa0cce7f804fe210f140ead4659cab1f2f537c05b6c935894037e37",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5fd605a02ff092832f4d72df.bin",
+      "size": 363931
+    }
+  ]
+}
