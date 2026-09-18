@@ -1,0 +1,67 @@
+{
+  "name": "FNAC 2",
+  "file": "FNAC 2.html",
+  "size": 278181569,
+  "sha256": "8603bdbbb4e745d2739cfdc6c705955d849bbbe208f0be2020a4742ec39b361a",
+  "partSize": 20971520,
+  "count": 14,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e2f4cbad5384c966b325391f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1634d239ee8c67a8b56a9bc6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "65b9d1cf0522eab12f5b3e4d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "49e43ccd41e4fcd6ce894e13.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9181aab78a366b006fd12191.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7683d6949a2bb2c03102665f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "86403934b83dede4dda2849c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "64106d0a827926b8f45ed51d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "feb2753afd65aa88c7d09759.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6883748eecff292728ac17f0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a7eebf9a37e5c1812da47a03.bin",
+      "size": 20971520
+    },
+    {
+      "name": "87c29a6bb00fe081054a0fed.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6ecf6f57b7cb72207e0bad04.bin",
+      "size": 20971520
+    },
+    {
+      "name": "15db1b8590806eb751eea060.bin",
+      "size": 5551809
+    }
+  ]
+}

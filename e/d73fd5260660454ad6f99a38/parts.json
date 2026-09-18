@@ -1,0 +1,15 @@
+{
+  "name": "aspiring artist",
+  "file": "aspiring artist.html",
+  "size": 10021865,
+  "sha256": "8f7ea3f359ce1479e93717bb93a0a81fbd0eaeb39c59cb7e8a9879567fba0fe5",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c6206c27d47486575400930d.bin",
+      "size": 10021865
+    }
+  ]
+}

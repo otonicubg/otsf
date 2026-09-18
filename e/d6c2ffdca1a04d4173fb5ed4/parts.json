@@ -1,0 +1,15 @@
+{
+  "name": "trimps updated",
+  "file": "trimps updated.html",
+  "size": 8770321,
+  "sha256": "2c016bb0562c371e7404f1a8d6529de6ac22c3d97864ad97cad20e011f76fa2e",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "646279405da39d8a517bac47.bin",
+      "size": 8770321
+    }
+  ]
+}

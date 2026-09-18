@@ -1,0 +1,59 @@
+{
+  "name": "Bfdi Branches",
+  "file": "Bfdi Branches.html",
+  "size": 243386438,
+  "sha256": "1c104e478449dac849c4b9e7d6a7dd5bb82e3f9eaf4dce16340255c37e6940c1",
+  "partSize": 20971520,
+  "count": 12,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "194606e6ff3a7a35fa518fe1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d08358a2fb75d6241c2e25a5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c008a2c6b689e0a209214003.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a46034d737e448965d254b4d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "400e7beb0826d12ec2907c9b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2987a6b2ee808a8c49205986.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ba6d32904f849a9a755bf8d9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6d8e361b85ff39c5fea4727f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5a28eb37a9fb6cc7f4129fa1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "43b6b8c81dd65f3a11f49648.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a15543ec96544f576f23bf99.bin",
+      "size": 20971520
+    },
+    {
+      "name": "927cf23b33fc9b03ca846c88.bin",
+      "size": 12699718
+    }
+  ]
+}

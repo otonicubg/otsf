@@ -1,0 +1,15 @@
+{
+  "name": "shaky structure",
+  "file": "shaky structure.html",
+  "size": 15257966,
+  "sha256": "f71bc87cb759a179f4b6d741ed8d3230516e8c92ec2a91a775f8cc7b2045f0fa",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cc23cf4c3714bec3f87a2dbd.bin",
+      "size": 15257966
+    }
+  ]
+}

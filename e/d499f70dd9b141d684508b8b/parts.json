@@ -1,0 +1,15 @@
+{
+  "name": "doomz.io",
+  "file": "doomz.io.html",
+  "size": 327919,
+  "sha256": "9691fed5aec0c23eae2836953ad8672b892f86e21dbfa45fe662951fc0e1d1f0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c1d9aae1b9c1496fcb263eff.bin",
+      "size": 327919
+    }
+  ]
+}

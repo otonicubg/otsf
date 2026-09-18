@@ -1,0 +1,15 @@
+{
+  "name": "big flappy tower tiny square",
+  "file": "big flappy tower tiny square.html",
+  "size": 14218755,
+  "sha256": "514589da6413b2da6a74d1ef1f3fe569fa6ff5066f2618d4525cc7fcacc93e75",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f94699e664fdded711d35ed4.bin",
+      "size": 14218755
+    }
+  ]
+}

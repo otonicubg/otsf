@@ -1,0 +1,15 @@
+{
+  "name": "death by ai",
+  "file": "death by ai.html",
+  "size": 83673,
+  "sha256": "ffaddf7f36981beb84454845422f38128092d6cbb010c47ce60c1f5115cfb2ef",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5a7137b24e56e0d2dba5ed0b.bin",
+      "size": 83673
+    }
+  ]
+}
