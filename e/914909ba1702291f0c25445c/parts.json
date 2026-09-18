@@ -1,0 +1,15 @@
+{
+  "name": "Switchblade",
+  "file": "Switchblade.html",
+  "size": 18200950,
+  "sha256": "833cedf56801efa1388a1fb30dd4d596399dee51be39e38f7ecab7702b5f793d",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d3b7ce59b4e413de344322fd.bin",
+      "size": 18200950
+    }
+  ]
+}

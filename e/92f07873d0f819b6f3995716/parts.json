@@ -1,0 +1,43 @@
+{
+  "name": "brotato",
+  "file": "brotato.html",
+  "size": 147324152,
+  "sha256": "24795cec889168d5a0f9e5242955f62eeaba61c67b7c889377d4d3b21f94d318",
+  "partSize": 20971520,
+  "count": 8,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "81b6ab13d29a046b39d17515.bin",
+      "size": 20971520
+    },
+    {
+      "name": "834e733f627e7bab2d69baf5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2d749325ab3dd70e7652be89.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b4170416361f74da999ec2b4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dc258d1699a7836b70636e67.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6dc6d11cec6d8359e0540ac0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f7660d2bb88e15a94c4507e7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1d33f313227b8be4249eece4.bin",
+      "size": 523512
+    }
+  ]
+}

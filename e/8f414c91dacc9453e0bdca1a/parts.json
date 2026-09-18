@@ -1,0 +1,23 @@
+{
+  "name": "idle tree city",
+  "file": "idle tree city.html",
+  "size": 45351428,
+  "sha256": "b793ae21207625596565fe5cce60f29bf13260274c846b23886b20e67af1a0d8",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e34d6a6b7b83e0581f68b23e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "71907cecdfd50bdc48c6ab54.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fe7ea8e7a5e89462d9f26707.bin",
+      "size": 3408388
+    }
+  ]
+}

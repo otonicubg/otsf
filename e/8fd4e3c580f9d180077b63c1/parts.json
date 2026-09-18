@@ -1,0 +1,19 @@
+{
+  "name": "push",
+  "file": "push.html",
+  "size": 36846091,
+  "sha256": "047cdc7f5162353c9ddf392a93d4aeb1ddf139723a14ba607f167ac14606571b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b981489325bced2e464f84a0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "20f743d4bc90e280f45b348b.bin",
+      "size": 15874571
+    }
+  ]
+}

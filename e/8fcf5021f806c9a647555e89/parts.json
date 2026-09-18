@@ -1,0 +1,15 @@
+{
+  "name": "Space Company",
+  "file": "Space Company.html",
+  "size": 2702169,
+  "sha256": "6b13d775a336b6d54085917e040c04bfe30acdc5d8152ddee94748866f3fcf74",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "19004cb6058ddc31cd4fa68e.bin",
+      "size": 2702169
+    }
+  ]
+}

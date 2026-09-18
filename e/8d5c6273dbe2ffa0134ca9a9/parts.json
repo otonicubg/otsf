@@ -1,0 +1,15 @@
+{
+  "name": "tic-tac-toe",
+  "file": "tic-tac-toe.html",
+  "size": 101840,
+  "sha256": "5e5ac97d861359af9734633e489ae2b333e5c09b06e51deaee75a462ef7332df",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "20e17d0ad9077c311bef2d2b.bin",
+      "size": 101840
+    }
+  ]
+}
