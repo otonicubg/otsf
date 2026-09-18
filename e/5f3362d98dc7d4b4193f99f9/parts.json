@@ -1,0 +1,19 @@
+{
+  "name": "football strike",
+  "file": "football strike.html",
+  "size": 24560743,
+  "sha256": "907a9b9823434a2c0db0affac6cb059c836a1e7dde162cd45ed84dc7259b0535",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "37c7a48fc048e455fe1f6ace.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1b213002a8ebbbee3e743ef9.bin",
+      "size": 3589223
+    }
+  ]
+}
