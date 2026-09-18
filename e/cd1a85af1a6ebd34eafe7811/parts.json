@@ -1,0 +1,19 @@
+{
+  "name": "Bloxorz",
+  "file": "Bloxorz.html",
+  "size": 40663878,
+  "sha256": "cc672067cc46565fe86b16a8c4471679b4fc77d3da90e0cf3a1ef219f1143ebd",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ba0f97ba6413119b7f4a725c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1845b76fd5cd78adf1c4f07d.bin",
+      "size": 19692358
+    }
+  ]
+}

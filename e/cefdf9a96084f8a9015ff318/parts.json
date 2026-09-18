@@ -1,0 +1,15 @@
+{
+  "name": "astro steve adventure",
+  "file": "astro steve adventure.html",
+  "size": 5531485,
+  "sha256": "a656d9d6fc6d278d60e5329064169b9f535c2aeed80c6eed40e01be3baa007d0",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7d137f52ea639e3153afbe11.bin",
+      "size": 5531485
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "gunblood",
+  "file": "gunblood.html",
+  "size": 13360864,
+  "sha256": "6afda8401c2ed129f2d743e6fc8013039a9a6741a953b9a421e4f444e788f7be",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "068e9bfddf08a9765bdf571d.bin",
+      "size": 13360864
+    }
+  ]
+}

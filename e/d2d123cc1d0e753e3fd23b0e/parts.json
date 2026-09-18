@@ -1,0 +1,23 @@
+{
+  "name": "Apes vs helium",
+  "file": "Apes vs helium.html",
+  "size": 58304331,
+  "sha256": "2c4139a8bca5702e63b1a1fa3389f462bf902b69b6d41245c0a175ecb8314e1f",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2fef932a99835592ed85c602.bin",
+      "size": 20971520
+    },
+    {
+      "name": "869ec37f0903641bf541afe4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5179b30cf115398e29bd6623.bin",
+      "size": 16361291
+    }
+  ]
+}

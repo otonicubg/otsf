@@ -1,0 +1,19 @@
+{
+  "name": "towerland",
+  "file": "towerland.html",
+  "size": 22585954,
+  "sha256": "122c5bd0b60f8c87b8c500c89d9b6d267202b09b27a2ed45db2860c9f381a2f2",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5dd88c5132575c2da558ee2f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a47648b5de5974d907557d95.bin",
+      "size": 1614434
+    }
+  ]
+}

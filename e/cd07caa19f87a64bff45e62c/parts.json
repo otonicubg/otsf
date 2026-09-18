@@ -1,0 +1,23 @@
+{
+  "name": "infinite night the cunning princess",
+  "file": "infinite night the cunning princess.html",
+  "size": 53509184,
+  "sha256": "a7dc28d25bc62a431e44def039fa9e8fc41797cabe7eddebbe0aa4741ed11b54",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "507231e9432b5126f4755260.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c670503f7cde25f773ec9e52.bin",
+      "size": 20971520
+    },
+    {
+      "name": "814ffa1676f2b12cfdbbb3d8.bin",
+      "size": 11566144
+    }
+  ]
+}

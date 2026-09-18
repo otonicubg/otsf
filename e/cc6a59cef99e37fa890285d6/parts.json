@@ -1,0 +1,23 @@
+{
+  "name": "doubleup",
+  "file": "doubleup.html",
+  "size": 54991325,
+  "sha256": "c4f4fdfdf45a51f044b0bf2728b96f4b31b604117e616a072875616a7256170d",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2e21da767c6b8b16e41f8003.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c9e19d0b6cd40a16d077b5fc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f003e37217dba09febd85235.bin",
+      "size": 13048285
+    }
+  ]
+}

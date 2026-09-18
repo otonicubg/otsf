@@ -1,0 +1,19 @@
+{
+  "name": "Riddle School 5",
+  "file": "Riddle School 5.html",
+  "size": 27537227,
+  "sha256": "f747dc96aa6762b51acdec6c24832b1d89cdf53a3c8a668e79c4767315bc3dc0",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "005a298f608b9cbf1699b841.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a995b359d54f2b999253d58f.bin",
+      "size": 6565707
+    }
+  ]
+}

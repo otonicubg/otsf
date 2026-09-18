@@ -1,0 +1,27 @@
+{
+  "name": "fluctuoid",
+  "file": "fluctuoid.html",
+  "size": 76233838,
+  "sha256": "9fc66e1aabc5644e553245f92a3f93cec1a10c217c9f8de89966e8e7fa617af1",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1e87301f3ee81b444ff274e5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "eac17ecf9f340a774318dccf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "afa87998db7111a25a1f09b9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "11721792ed22b8654ee9dadf.bin",
+      "size": 13319278
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pom gets wifi",
+  "file": "Pom gets wifi.html",
+  "size": 60342173,
+  "sha256": "094a6b10c98c109d771026b53a07eb06929c191c94d1baba0cf3b92b400581b6",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3c33b36d6197dbaf36d38f5c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2c2bb01451f5b0d076bf17f7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "12de6080cf2834054ef99eef.bin",
+      "size": 18399133
+    }
+  ]
+}
