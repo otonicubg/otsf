@@ -1,0 +1,19 @@
+{
+  "name": "Rogue Soul 2",
+  "file": "Rogue Soul 2.html",
+  "size": 21922941,
+  "sha256": "fd538d26fd4217e8017c77db14c80e5f8fa8160cbb9c773999397cd40fce1def",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ae30b650bc09e3ad7540175b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "403b9b2064455ad93d4e9111.bin",
+      "size": 951421
+    }
+  ]
+}
