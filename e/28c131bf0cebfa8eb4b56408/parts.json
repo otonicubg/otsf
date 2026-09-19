@@ -1,0 +1,19 @@
+{
+  "name": "Steal a Brainrot",
+  "file": "Steal a Brainrot.html",
+  "size": 21687393,
+  "sha256": "f62d7c2c0be3596dc65f4169972b92d3dc2ba928aa8622af02922da428e37694",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "27ce6158241a4628a9d0b8cd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1d8fb79a363e054c1729ceed.bin",
+      "size": 715873
+    }
+  ]
+}
