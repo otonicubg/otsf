@@ -1,0 +1,27 @@
+{
+  "name": "Minesweeper plus 2.1",
+  "file": "Minesweeper plus 2.1.html",
+  "size": 65037528,
+  "sha256": "83ebc4b62cee1f6f6566aa5ce6518832886ce1c29e7fde04aa51b8c373ebb27f",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "07ef4b50e3a5fcf1fa811d14.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d5e6927b812dcd6de297ca7a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c82e0ec388c67f890f1689bc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "aeb002314dd8e188a78b2c63.bin",
+      "size": 2122968
+    }
+  ]
+}

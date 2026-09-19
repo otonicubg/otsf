@@ -1,0 +1,19 @@
+{
+  "name": "hexologic",
+  "file": "hexologic.html",
+  "size": 24062484,
+  "sha256": "d2c967e54e60614946dec8d0bd2dc5b9f38e8f709e56a4da718eb419f82d8a65",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3929c8a260e822db82859b84.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2d8d35a247f2cfd7d5ce6dc8.bin",
+      "size": 3090964
+    }
+  ]
+}
