@@ -1,0 +1,51 @@
+{
+  "name": "Drift Hunters",
+  "file": "Drift Hunters.html",
+  "size": 208767924,
+  "sha256": "961cb69a49889e8779e268e4c4077b3ac111cae032a387b255a4debc5c15b68a",
+  "partSize": 20971520,
+  "count": 10,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f854ba8d5e9007d23d8fcd64.bin",
+      "size": 20971520
+    },
+    {
+      "name": "600c37f8f7a288ca8d28f5c4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "335f6ac1a18927f5b8be4a5d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "abe643995e165898350a72a4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c2bcf03fa65a71fe3c3a02c5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b4e1beba392651ac88921692.bin",
+      "size": 20971520
+    },
+    {
+      "name": "25e4d98c71a7120c75e1babb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f20f8405d61a3e929276a96d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "17cb125e05b6d9bc9c78b035.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b3f86425f8a9fe2555331469.bin",
+      "size": 20024244
+    }
+  ]
+}

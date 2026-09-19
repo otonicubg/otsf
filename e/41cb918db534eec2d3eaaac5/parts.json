@@ -1,0 +1,27 @@
+{
+  "name": "The man in the window",
+  "file": "The man in the window.html",
+  "size": 64586143,
+  "sha256": "4745e5bf3833222d61ea1ffa46832b0a70ee4b761cbc198ac10b06d1ff7762c7",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4eb2f724d77d34d5a7ab657f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "50ae9a88a569893b4dac0f66.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b6fedb0e8442419289042f39.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e14247e8ee39c76cb67aa459.bin",
+      "size": 1671583
+    }
+  ]
+}

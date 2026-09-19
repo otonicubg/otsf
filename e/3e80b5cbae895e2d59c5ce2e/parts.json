@@ -1,0 +1,19 @@
+{
+  "name": "clickventure",
+  "file": "clickventure.html",
+  "size": 39752598,
+  "sha256": "a50ba10f98a2c9cb9ee42743d9730bd302add1f9bd5b3d01e790107bb177a94b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ad7d7110d820635c331df03c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "94382ed28448f75ecbcd3d28.bin",
+      "size": 18781078
+    }
+  ]
+}
