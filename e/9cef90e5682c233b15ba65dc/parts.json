@@ -1,0 +1,71 @@
+{
+  "name": "Deltarune DEMO",
+  "file": "Deltarune DEMO.html",
+  "size": 295358103,
+  "sha256": "f0c7475d22ff62b464184312af4b74938002001c8622177a20e1f9b6fe0cfeb0",
+  "partSize": 20971520,
+  "count": 15,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "85861223774e2fc4e15b21f7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d06f18d43fc639cac3a6f048.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8dfabefdd48955a7e8e13be5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d66ec6d011e6710a2e6930c8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a09f756d42940653fc319bd5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7717be7163b3896d3946a0c3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "817c9fc1c142de2f562abd85.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fcd53a39e05cfe4ae494e514.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e60cb3db7c32e0671fc926d4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8705c45a07ffcbbf61bb9a22.bin",
+      "size": 20971520
+    },
+    {
+      "name": "007c4d4c1f9718ce4d56bf1c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9517e797afb3540ccc057183.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8b295fa45f8f7979d485ccc6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d0d68b9a67ea47b787610f70.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8568882a16a984d5f9a56e42.bin",
+      "size": 1756823
+    }
+  ]
+}

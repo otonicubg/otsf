@@ -1,0 +1,23 @@
+{
+  "name": "Burnin rubber",
+  "file": "Burnin rubber.html",
+  "size": 55826850,
+  "sha256": "8ee6833b5cfe22dd2456f8e3268f3b71fcc8d090b212b0ffcddd6adc90b88cd2",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b782e590c35a593caccaa019.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dba7de60f2da73957b9e78d1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6234a66f2cb56633e2142207.bin",
+      "size": 13883810
+    }
+  ]
+}

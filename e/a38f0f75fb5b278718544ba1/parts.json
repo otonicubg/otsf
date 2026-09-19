@@ -1,0 +1,15 @@
+{
+  "name": "parkour race",
+  "file": "parkour race.html",
+  "size": 20910881,
+  "sha256": "80e204c0bdbaa3dbd6a978d9be34b5ec009aa8d377ece193006c898b522b21fb",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f3d6b4de6ed664ab3fb5d9ca.bin",
+      "size": 20910881
+    }
+  ]
+}
