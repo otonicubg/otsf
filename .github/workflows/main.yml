@@ -1,0 +1,30 @@
+name: Update Version File
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update version file with commit SHA
+        run: |
+          echo "${{ github.sha }}" > version
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update version file to hash ${{ github.sha }}"
+          file_pattern: version
+
+      - name: Purge jsDelivr cache
+        run: |
+          # Sends the uncache request to jsDelivr for the @latest tracking branch
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@latest/version"
