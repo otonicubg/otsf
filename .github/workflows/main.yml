@@ -15,12 +15,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_SHA: ${{ github.sha }}
+          GH_REPO: ${{ github.repository }}
         run: |
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          git remote add origin "https://x-access-token:${GH_TOKEN}@://github.com{{ github.repository }}.git"
+          git remote add origin "https://x-access-token:${GH_TOKEN}@://github.com{GH_REPO}.git"
           
           git fetch --depth=1 origin main
           git checkout main
@@ -32,5 +33,7 @@ jobs:
           git push origin main
 
       - name: Purge jsDelivr cache
+        env:
+          GH_REPO: ${{ github.repository }}
         run: |
-          curl -s "https://jsdelivr.net{{ github.repository }}@latest/version"
+          curl -s "https://jsdelivr.net{GH_REPO}@latest/version"
