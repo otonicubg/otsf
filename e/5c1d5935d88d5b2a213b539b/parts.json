@@ -1,0 +1,15 @@
+{
+  "name": "bumper cars soccer",
+  "file": "bumper cars soccer.html",
+  "size": 12788320,
+  "sha256": "6cb9fa33b9581a8b9a95f22a3ccdda2e8684151664b97acd04dff3a3467ee05c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ca63b837c32149d479885d5d.bin",
+      "size": 12788320
+    }
+  ]
+}
