@@ -1,0 +1,19 @@
+{
+  "name": "where is my cat",
+  "file": "where is my cat.html",
+  "size": 24330140,
+  "sha256": "c0bf68862219cc52564d2b547e8543cbb48754429351706a83216c04b3587707",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cfac3124a0b4b2d10cf55059.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f15138b78aed772c62c20c03.bin",
+      "size": 3358620
+    }
+  ]
+}

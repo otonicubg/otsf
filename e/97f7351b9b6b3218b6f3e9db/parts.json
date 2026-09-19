@@ -1,0 +1,27 @@
+{
+  "name": "westoon",
+  "file": "westoon.html",
+  "size": 65273317,
+  "sha256": "449e3553b9fafdf4bd63e55cde4d7dcff0d57becabdf9ac5008270cd859bd2fd",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "21b1107f51759e5148b5b57d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9573f8ae3f84a7ece34df54b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5271378ae40438305397215a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0884c4be70b3dcdf95ca052e.bin",
+      "size": 2358757
+    }
+  ]
+}
