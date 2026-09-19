@@ -1,0 +1,15 @@
+{
+  "name": "Interactive Buddy",
+  "file": "Interactive Buddy.html",
+  "size": 3811218,
+  "sha256": "117e4b973baaca2dec80af6017d7c02a37e844f3d17cd252e1dfd49ee2c7a8e8",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "37a528a2f34af94a2d911ecd.bin",
+      "size": 3811218
+    }
+  ]
+}

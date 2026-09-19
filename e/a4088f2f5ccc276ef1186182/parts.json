@@ -1,0 +1,23 @@
+{
+  "name": "cars simulator",
+  "file": "cars simulator.html",
+  "size": 50599645,
+  "sha256": "f7e1c9777988cc659b42db4c9c5199b0717f6d23bf85620de6f24158a8d45ca5",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bf00ff444dfd61e73aae3b61.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8d444b18e53193fcacdc632a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "65de0c3a872ef1ec130e6436.bin",
+      "size": 8656605
+    }
+  ]
+}

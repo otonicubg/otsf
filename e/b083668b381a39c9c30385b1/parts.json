@@ -1,0 +1,23 @@
+{
+  "name": "gangster contract mafia wars",
+  "file": "gangster contract mafia wars.html",
+  "size": 44988543,
+  "sha256": "9adba59ea32a62132985eb11d2720b862cf4bc13d66f2addfaadb058616f9eea",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "15b8a7c8737965f9ced2b2a7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0384707550a20ce28c4bc8ff.bin",
+      "size": 20971520
+    },
+    {
+      "name": "74c954119050b2390697066f.bin",
+      "size": 3045503
+    }
+  ]
+}

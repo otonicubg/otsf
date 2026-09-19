@@ -1,0 +1,155 @@
+{
+  "name": "FNAC 3",
+  "file": "FNAC 3.html",
+  "size": 743347237,
+  "sha256": "221ee6c930023c4dc25e9dd983581cf8f76d4feb7b29d961e4b05cd346a73a16",
+  "partSize": 20971520,
+  "count": 36,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "15fe453ea821c398c035eba7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c6e6654e3c3517a7e3e3156b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b07f0eda5164b6f478857f12.bin",
+      "size": 20971520
+    },
+    {
+      "name": "84cd6a5fff23b8c2bb3a42ca.bin",
+      "size": 20971520
+    },
+    {
+      "name": "15ff996a081495d4b140742c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c487792115315d013c30dd55.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d1601c49bcac64c144045bc5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1e58ccebf0f1929b740b302e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "56b7295ae7692c6e2d3126d1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "df9d99bfde05523fb704a136.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d5d3e050cb973800e31e5999.bin",
+      "size": 20971520
+    },
+    {
+      "name": "41dc0e9aa912095bd62150fb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c26cc35eea08f322f0bb6171.bin",
+      "size": 20971520
+    },
+    {
+      "name": "06b1908e28e0a57d94f8d5fb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c5659d71017d46379d417c18.bin",
+      "size": 20971520
+    },
+    {
+      "name": "91f77c036e739efd8aa8af4d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "886c56f9d72725903894937f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2bbef067bb3588e3c769ea36.bin",
+      "size": 20971520
+    },
+    {
+      "name": "42fca4fb1eac9c87234b93e1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c53496e92850f9685bdfefa3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ad688e83e885b5d03ae0fe2c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "61653860bf35993ae0842bdb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a61f75d898b81d75a3fb860d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "260957e98cefc1db883a0120.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7b4d10d7803ff480b60417b3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a46aebe2c7c6b943194f05b2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "eb07b6516b2e2706498c3838.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0b2503996b3b64b07ec0bacf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "278c897ae9418744141d0b6b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ce8e216f9f0f863c8e4799fc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "374bf9eac358cf45cbe55af1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e36662e4e1e3f288fa0d0df5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9315b6bd9244db83a6bbacf3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ffa8d5bc12f33a98854fc616.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dfc9e9ebca5481239f459cae.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cbdcaaecf2ac6116a30b855b.bin",
+      "size": 9344037
+    }
+  ]
+}

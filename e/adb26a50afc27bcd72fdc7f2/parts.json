@@ -1,0 +1,23 @@
+{
+  "name": "infiltrating the airship",
+  "file": "infiltrating the airship.html",
+  "size": 44688891,
+  "sha256": "5bdfd86b51e38eae932dd022f322fcfbdbd13caf5b6c722ad7d40df52e82afe1",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "728449954ace54422281cfc6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "36b186eb091a63885398cad5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "68b4e2fcd56bd1272e4631de.bin",
+      "size": 2745851
+    }
+  ]
+}
