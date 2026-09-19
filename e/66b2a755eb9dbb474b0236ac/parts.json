@@ -1,0 +1,15 @@
+{
+  "name": "brawlguys.io",
+  "file": "brawlguys.io.html",
+  "size": 15741006,
+  "sha256": "f648fa031e6289384a1c31bb2aa99ced989817c990adb9b00646747f862fce11",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e893c1f0ae34f2738f252c5c.bin",
+      "size": 15741006
+    }
+  ]
+}

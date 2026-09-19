@@ -1,0 +1,23 @@
+{
+  "name": "Funny Shooter",
+  "file": "Funny Shooter.html",
+  "size": 46011251,
+  "sha256": "98750a588e515f198cf11c131538e1f55596c2045ca1b091484aea3c33487f6a",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f2094820c259b6e6de7e6835.bin",
+      "size": 20971520
+    },
+    {
+      "name": "eb260c6c0a0a4f27cfbe92b9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3fc9cd866f391c7e7fb44f29.bin",
+      "size": 4068211
+    }
+  ]
+}
