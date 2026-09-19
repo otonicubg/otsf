@@ -1,0 +1,31 @@
+{
+  "name": "quake",
+  "file": "quake.html",
+  "size": 103968119,
+  "sha256": "34092ea2bb2ab7966991d429048ea0b46b5a21ea24d2273f24b4b2f979f479f1",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "751621b1ee16eed6d430eaef.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9f40e2272559118f6763ffb6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7aa359471e0319f7c4b5a4d0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2dbac2dccff16f99470d27f5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "55839dd82396c7b053902a82.bin",
+      "size": 20082039
+    }
+  ]
+}
