@@ -1,0 +1,15 @@
+{
+  "name": "cricket world cup",
+  "file": "cricket world cup.html",
+  "size": 16163181,
+  "sha256": "eedf8f1329a27ccdfbe364c891d21ddbf28126a55fdae1f062ada01cac823c72",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a78777d4b5b4fce44f529afd.bin",
+      "size": 16163181
+    }
+  ]
+}

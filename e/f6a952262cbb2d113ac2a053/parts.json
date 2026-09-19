@@ -1,0 +1,15 @@
+{
+  "name": "gold digger frvr",
+  "file": "gold digger frvr.html",
+  "size": 11969217,
+  "sha256": "3adeeaa759f76d567f0d6e23719ecf1ab0484b6ea8fb1c0cd454c8fa8e9cd251",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "539233a470a7d8b76a9efc57.bin",
+      "size": 11969217
+    }
+  ]
+}

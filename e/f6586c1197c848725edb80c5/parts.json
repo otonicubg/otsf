@@ -1,0 +1,111 @@
+{
+  "name": "Sonic and the fallen star",
+  "file": "Sonic and the fallen star.html",
+  "size": 511696320,
+  "sha256": "728e87aef8cf47303f2c08079fc7edadae38a40fe4837b4be795f50294bda24d",
+  "partSize": 20971520,
+  "count": 25,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fc0fca8aac5609fc50db2498.bin",
+      "size": 20971520
+    },
+    {
+      "name": "30c3e79752c45eb8025f05ba.bin",
+      "size": 20971520
+    },
+    {
+      "name": "013cef4bca786acdac75136f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e7f267e5ec1e35e3e901f594.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a7a7ea519974082ef3431bae.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8937182690bd79cd212d5b1b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e90447f14d6f2aa93138bda4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7cd36febcb9fb1c4bf69e3d0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "264dc94b4fd1242141719367.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e1583b665ea6103b4ee12fa3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "472c514be2c1db3fcc86fdff.bin",
+      "size": 20971520
+    },
+    {
+      "name": "69a2b04fa5c79f295b33d85a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ea5d2c01ddd5fa0e56d9b310.bin",
+      "size": 20971520
+    },
+    {
+      "name": "04d52265aa3331afe21d4fd6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a30e1af7a46d68ebba996518.bin",
+      "size": 20971520
+    },
+    {
+      "name": "17c65b9530f6fc0684ac87db.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8be81d22e2dbe3d64fcbdc03.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0baa1405c2effcd4615703e2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b7d6088815a536558558501e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "73f7504bbd01e85b34ff157f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "902727779ce75c4a929b02e6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "58fb38966f28a5e6f5a663d7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "20b3eab737960dc9aa7902d5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "65d0c891fa24376bbbea5ae0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ba40255d2942b788d2574e52.bin",
+      "size": 8379840
+    }
+  ]
+}
