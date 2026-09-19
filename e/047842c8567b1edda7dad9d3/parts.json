@@ -1,0 +1,15 @@
+{
+  "name": "eggbot vs zombies",
+  "file": "eggbot vs zombies.html",
+  "size": 19280081,
+  "sha256": "7f3337494146910e669d61b2a181a90c71faa8813318ac655a7ff1245ee95ae7",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "45c4b6766dc4b1f2adadab3c.bin",
+      "size": 19280081
+    }
+  ]
+}

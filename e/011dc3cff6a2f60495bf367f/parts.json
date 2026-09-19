@@ -1,0 +1,19 @@
+{
+  "name": "Hotline miami",
+  "file": "Hotline miami.html",
+  "size": 29714408,
+  "sha256": "016a5194883a7e94fd3840ba4cae3ac693930b0e97057562a1a83e86ea51e7e5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7ebf023741522f052da2c39e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ec494da653c662fdad909575.bin",
+      "size": 8742888
+    }
+  ]
+}

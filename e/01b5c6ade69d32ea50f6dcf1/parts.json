@@ -1,0 +1,43 @@
+{
+  "name": "Andys apple farm",
+  "file": "Andys apple farm.html",
+  "size": 163163888,
+  "sha256": "6ba066583002b9630435715b7c037b0952ae77db082aeaedd32141f91b67f04f",
+  "partSize": 20971520,
+  "count": 8,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1a67dd712d29c4f5fb1917d3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2ca35459a22f342478b6b46f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9bc1b665fc6c87e9e02feb8d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3d05904e49dd5e4f6293db9a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c85a349a1e393e600d63ea92.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c2a8f9ef83d66ae8c51477fa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6aefa10e210154f3cadd0c23.bin",
+      "size": 20971520
+    },
+    {
+      "name": "76e235a9d9290e39532a3081.bin",
+      "size": 16363248
+    }
+  ]
+}
