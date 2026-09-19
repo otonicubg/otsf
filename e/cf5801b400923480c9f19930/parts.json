@@ -1,0 +1,15 @@
+{
+  "name": "ballistic",
+  "file": "ballistic.html",
+  "size": 4389413,
+  "sha256": "826580d9443ad7dab253f9008b0c13aab9d92aa2181910435b19771a8496ae5a",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "76749c1032c5247e47a6e96d.bin",
+      "size": 4389413
+    }
+  ]
+}
