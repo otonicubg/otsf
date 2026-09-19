@@ -1,0 +1,27 @@
+{
+  "name": "hole.io",
+  "file": "hole.io.html",
+  "size": 63556291,
+  "sha256": "68d926e00768d53f13217fa7df8a1df847c0c3600987a3020e2de12fcccbb559",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ddd2c84b0387f3e5e2f490e3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7416456717b5572c452995dc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "07e97c0d362930817564bb4b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6848f86faf408a22d533baf0.bin",
+      "size": 641731
+    }
+  ]
+}

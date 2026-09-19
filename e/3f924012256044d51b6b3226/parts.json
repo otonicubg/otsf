@@ -1,0 +1,27 @@
+{
+  "name": "kingdom rush frontie",
+  "file": "kingdom rush frontie.html",
+  "size": 77096702,
+  "sha256": "cf4430772b407f61c459f6fb30872772a65f2a8fbc99e2e95d98fab3baf344f5",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4ffab3f47601f940c7403ce6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "63edc1853b204cb396e82adb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e98dbd7af9aa6a364dc39ff8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "05df8c0010883676a4c84d60.bin",
+      "size": 14182142
+    }
+  ]
+}
