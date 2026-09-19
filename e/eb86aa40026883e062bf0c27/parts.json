@@ -1,0 +1,19 @@
+{
+  "name": "war-the-knights",
+  "file": "war-the-knights.html",
+  "size": 38678406,
+  "sha256": "bb7dda8900124f67d276422a4ad925a032a020a0f36e700f210a226f53a5829c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "3b6b2a12f850ff897d8ca8aa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9e104a1d666bfbdb69a90b7e.bin",
+      "size": 17706886
+    }
+  ]
+}

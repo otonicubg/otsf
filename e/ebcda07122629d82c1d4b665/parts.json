@@ -1,0 +1,19 @@
+{
+  "name": "president simulator",
+  "file": "president simulator.html",
+  "size": 32749915,
+  "sha256": "a780322b3838dbeb77f4603e175ad597620174d20fa5295af37606f88bee5d09",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "69f660d92c0759a411802f20.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b02b48e9564abfcee7ad752f.bin",
+      "size": 11778395
+    }
+  ]
+}
