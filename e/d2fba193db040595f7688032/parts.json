@@ -1,0 +1,19 @@
+{
+  "name": "the impossible quiz 2",
+  "file": "the impossible quiz 2.html",
+  "size": 24266034,
+  "sha256": "488c94ef0b5b6b5b8c81a488a71fe57fa316cd0018bf196b1339b26f09754b43",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "031f72fe086f42902d202892.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dddfefb9492a2686193397b7.bin",
+      "size": 3294514
+    }
+  ]
+}

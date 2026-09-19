@@ -1,0 +1,15 @@
+{
+  "name": "100 Pong",
+  "file": "100 Pong.html",
+  "size": 699285,
+  "sha256": "51d718c194c4e43ab5892eadff7a5699549719d2c1a2090f86ea0318d8d1d0ed",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c89c59c26053cea7bdf8eaad.bin",
+      "size": 699285
+    }
+  ]
+}
