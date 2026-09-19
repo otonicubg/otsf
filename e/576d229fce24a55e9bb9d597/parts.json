@@ -1,0 +1,15 @@
+{
+  "name": "GTA Vice city",
+  "file": "GTA Vice city.html",
+  "size": 109638,
+  "sha256": "1a4a3767bb53d1834b693d02c27ebf8f041928ccd29172f80680f0113d9b40a1",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b086443bdce3c639f48f1625.bin",
+      "size": 109638
+    }
+  ]
+}

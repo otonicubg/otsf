@@ -1,0 +1,27 @@
+{
+  "name": "Drift King",
+  "file": "Drift King.html",
+  "size": 72158127,
+  "sha256": "a1b96c43a1287bc32172a60dbb252a2d3ef4ee56056d2ecbbb6814120261147a",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9fcd65ac1c02810047a30032.bin",
+      "size": 20971520
+    },
+    {
+      "name": "244477d2138a9c9ed653f2ce.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7f39119979044c9b326ef3fc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fdcc5613da628ce92f13bcf4.bin",
+      "size": 9243567
+    }
+  ]
+}
