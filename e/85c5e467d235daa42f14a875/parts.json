@@ -1,0 +1,31 @@
+{
+  "name": "adventure boy jailbreak",
+  "file": "adventure boy jailbreak.html",
+  "size": 96983369,
+  "sha256": "f6d9333600b13b0fa9395760e41853b65756df09c479f10e95f67ea03bebc740",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a5b9db66930d6bd577ec967f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c271d819b0ee0705f2b472dc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3103d6618376be8448083abb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bb0575f96e98bfeca63138aa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6b8015aaab0a9cff58efaa33.bin",
+      "size": 13097289
+    }
+  ]
+}

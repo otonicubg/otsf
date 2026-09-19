@@ -1,0 +1,19 @@
+{
+  "name": "slime road",
+  "file": "slime road.html",
+  "size": 28806113,
+  "sha256": "857d47e47291c4d90b2d86734ceb92d44ee8737d0480902c78b610f0f6fa35bc",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ec9ad86d4abd87c6a095a93c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9a98ae0cf50e7def1458d74a.bin",
+      "size": 7834593
+    }
+  ]
+}

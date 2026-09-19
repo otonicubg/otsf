@@ -1,0 +1,19 @@
+{
+  "name": "balloons.io",
+  "file": "balloons.io.html",
+  "size": 30111522,
+  "sha256": "719cd148a414aa8819356d4ecefcc108d1ac6e2e6de510cb8912909d70454ffa",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8cd84cb47935504a69a2af4d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a2d11eacd94fb2aa94425a8a.bin",
+      "size": 9140002
+    }
+  ]
+}

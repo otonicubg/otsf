@@ -1,0 +1,19 @@
+{
+  "name": "may i have your attention, please",
+  "file": "may i have your attention, please.html",
+  "size": 27070938,
+  "sha256": "afbecf0df895edd13e2ab5c9272b329b0fff8edad40a15c5802be5658fae9bd4",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ae6b82285d685966eb54c1f6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d4f29ae900e12c77d9fdd401.bin",
+      "size": 6099418
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "peeper reaper",
+  "file": "peeper reaper.html",
+  "size": 27949793,
+  "sha256": "af291a7145857496fe5592af89a164a49084aa1ea1a8d58677a5bef74d3bf8ec",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d4ab9db503f0d20a87003f7d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "871b9a40fcc14c8c66e4542a.bin",
+      "size": 6978273
+    }
+  ]
+}

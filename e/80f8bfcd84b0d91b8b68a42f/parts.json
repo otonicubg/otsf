@@ -1,0 +1,19 @@
+{
+  "name": "Temple Run 2",
+  "file": "Temple Run 2.html",
+  "size": 36475856,
+  "sha256": "71b6200144b42a0fe06cedb987a0d6f075b46796ecba73382d7312e08855b6a4",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1695ed566ff1042885708b7f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c73e8510ebbe2cf25505d3a3.bin",
+      "size": 15504336
+    }
+  ]
+}

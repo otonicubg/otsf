@@ -1,0 +1,15 @@
+{
+  "name": "Working Stiffs",
+  "file": "Working Stiffs.html",
+  "size": 13330463,
+  "sha256": "2b5583c28d6ad78679d5818cc789033cf86f54735b9e0bf46f52bf2f9298886c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eafbd4d259aadd7f74d0489a.bin",
+      "size": 13330463
+    }
+  ]
+}
