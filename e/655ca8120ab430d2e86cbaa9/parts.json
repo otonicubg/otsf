@@ -1,0 +1,27 @@
+{
+  "name": "Go to bed",
+  "file": "Go to bed.html",
+  "size": 66925752,
+  "sha256": "b36ec4ff1b3e0ec51c188308ef606c6a4f815bea8468f551cb0c3eecaf19ee5b",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e1f98fde9a4061d0a7000220.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3cf89ff9a32e6e60ba8e8419.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cbcc321562d54af42739c05f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6d81b4ae28ad257c07566fcf.bin",
+      "size": 4011192
+    }
+  ]
+}

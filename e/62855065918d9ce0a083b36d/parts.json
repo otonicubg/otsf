@@ -1,0 +1,19 @@
+{
+  "name": "animal arena",
+  "file": "animal arena.html",
+  "size": 21080984,
+  "sha256": "c5e64c1a66d916d3d6043f716d7ad896941efd9d1f3834dd55ea89b45a0afb61",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d3e83a5f2fd76dc53fc487ea.bin",
+      "size": 20971520
+    },
+    {
+      "name": "66033ce107d2c82c6a6e5a67.bin",
+      "size": 109464
+    }
+  ]
+}
