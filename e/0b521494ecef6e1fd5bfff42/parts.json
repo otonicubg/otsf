@@ -1,0 +1,75 @@
+{
+  "name": "Buckshot Roulette",
+  "file": "Buckshot Roulette.html",
+  "size": 319516158,
+  "sha256": "405586c47f0521948a560e6ebb66c267029dead0d6b4eba8a3e6c28d40c9d15c",
+  "partSize": 20971520,
+  "count": 16,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "67a2484f50df348af8a58770.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7562766bf1f00db5167a78a2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6c7ac00b8a69ed7e271e09bc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b52f0fda440ee92e54d297c4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "af780bb72b6c6b7abfd4963c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "017bf4d9b375d57bb1765a76.bin",
+      "size": 20971520
+    },
+    {
+      "name": "db2eff9afa8f25f6d7a26e3a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "12ddee423b5a84f0d1a0f1e3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a410a993fb97afbe2d0b2ab4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "609379336a8ef13ad38f0f16.bin",
+      "size": 20971520
+    },
+    {
+      "name": "43faf48ecc924ec95b65a660.bin",
+      "size": 20971520
+    },
+    {
+      "name": "837dcf8a871c93c1888d97ff.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1f63d0cdf08b3ac9b49cbb97.bin",
+      "size": 20971520
+    },
+    {
+      "name": "345abb7318e889d4238ed2c0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "68dc975658fb1c1673734105.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7b62617b35c1cecd61cb0821.bin",
+      "size": 4943358
+    }
+  ]
+}

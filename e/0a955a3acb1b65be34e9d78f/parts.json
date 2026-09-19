@@ -1,0 +1,43 @@
+{
+  "name": "shellshock",
+  "file": "shellshock.html",
+  "size": 155671567,
+  "sha256": "b2a9a3d8f0a40c28dfc5dcc9802ddf777e207982698e179b18ddd9879e2f30e7",
+  "partSize": 20971520,
+  "count": 8,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "19c03b1bc8211f815134288a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "810213beb967b276afdc7caa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cab83bab96dfd9474bd259d4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f5098def505877e6bf079e21.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ad8dc634cb58044c33a5594a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "43bcfa1657ecc4a0526c391e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "325eff0c60c26f1369ddf775.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e1d2d8ffa3c96b317ad4a720.bin",
+      "size": 8870927
+    }
+  ]
+}

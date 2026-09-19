@@ -1,0 +1,23 @@
+{
+  "name": "bad dolls",
+  "file": "bad dolls.html",
+  "size": 44160941,
+  "sha256": "911721bef4269f87159b8da388841fe248475ac176b4ea73e04c85dfd0005848",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "01310f778608f7422225eb6a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3a3547bd6b1e48122c784044.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b71d6d5282005c8c93400936.bin",
+      "size": 2217901
+    }
+  ]
+}
