@@ -1,0 +1,19 @@
+{
+  "name": "Riddle School Transfer",
+  "file": "Riddle School Transfer.html",
+  "size": 28789533,
+  "sha256": "3e191b8a3b3c16a80f75660199717649f4bca1696e102765e2ae5926465e5308",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "692ac2f337c8f710e012c396.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1bdf5e01aa3074b026d00275.bin",
+      "size": 7818013
+    }
+  ]
+}
