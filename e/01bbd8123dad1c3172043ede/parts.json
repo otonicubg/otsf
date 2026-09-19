@@ -1,0 +1,23 @@
+{
+  "name": "cars thief tank edition",
+  "file": "cars thief tank edition.html",
+  "size": 46311757,
+  "sha256": "8e74e5e7a56ac98851468cd556142e676e6088aaf2214cc6992eb26211d893da",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ccf48de0e0b0691b7e0bc915.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dfa3ad1e8f3097aca29d959b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3524e4d5f5e352575614a533.bin",
+      "size": 4368717
+    }
+  ]
+}

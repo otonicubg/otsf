@@ -1,0 +1,31 @@
+{
+  "name": "amazing strange rope police",
+  "file": "amazing strange rope police.html",
+  "size": 97775171,
+  "sha256": "2c501a62fb9366cc62177561ae311b40631df904591edbe6f7ac5b4e98d400a3",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "edd8d692c8f03f821ee257fd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8ca98cbbfe14c3882f8e4e39.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cedf3005351529c1585697c2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f50e1c73b3fa7459b55bba77.bin",
+      "size": 20971520
+    },
+    {
+      "name": "493ccaaa91be73f1e1db0e60.bin",
+      "size": 13889091
+    }
+  ]
+}
