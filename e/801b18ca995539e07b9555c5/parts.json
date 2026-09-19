@@ -1,0 +1,31 @@
+{
+  "name": "city car driving stunt master",
+  "file": "city car driving stunt master.html",
+  "size": 86425290,
+  "sha256": "0e53e0fdd1c21d13db5c4bdb0b68addb222226ff31ec9c7bcc241c159e7781a8",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a7af69369669d32d6a1bdbd2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "948da296dc33a0ff5823f495.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fca3342bb495a59e42334034.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c6d6d4559cd32793ef440c13.bin",
+      "size": 20971520
+    },
+    {
+      "name": "643c817952232e1ad674c017.bin",
+      "size": 2539210
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "aquapark.io",
+  "file": "aquapark.io.html",
+  "size": 51823144,
+  "sha256": "04354d9b6740e5a1aca9addb1721814166f51e610c61f45b3f36d6f52edbcdbe",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "41e5f32a0733dc7d0c9c4ff3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b340cc2a259f772af46f6fff.bin",
+      "size": 20971520
+    },
+    {
+      "name": "07beab325b5b7903856c5f3b.bin",
+      "size": 9880104
+    }
+  ]
+}
