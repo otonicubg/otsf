@@ -1,0 +1,15 @@
+{
+  "name": "1v1 Space",
+  "file": "1v1 Space.html",
+  "size": 100476,
+  "sha256": "4adf49d3c3ed5b31c6b3e36d03ec140caca944e991dc0f00c5c23583d5f7ae71",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "60bef29b0e4571b79ab1228d.bin",
+      "size": 100476
+    }
+  ]
+}

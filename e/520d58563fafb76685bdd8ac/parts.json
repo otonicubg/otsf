@@ -1,0 +1,19 @@
+{
+  "name": "money rush",
+  "file": "money rush.html",
+  "size": 28639765,
+  "sha256": "c20a382c6ef7c457d5c745ab75c4b140b834bd624dc274012a306a237344ad28",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "781092159ab89d7ec233a241.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7d596196df9517ad2d2465a3.bin",
+      "size": 7668245
+    }
+  ]
+}
