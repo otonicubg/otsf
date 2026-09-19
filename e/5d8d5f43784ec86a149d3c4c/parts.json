@@ -1,0 +1,59 @@
+{
+  "name": "Pizza Tower",
+  "file": "Pizza Tower.html",
+  "size": 246368339,
+  "sha256": "2ffe4f5be924d4758560f79d24952a75559dd31fab228dea5b3f11bdc283daf8",
+  "partSize": 20971520,
+  "count": 12,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8581599ac1daf59a1e92b1be.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bb35a509fb66f9a3a405f294.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e7ac7c1852c156eb7f6ab95a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dbcc1d57f7bd5fb5e2a5e5a2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9b183ac35d70394ee24d4979.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e2a15593682991906a0e0181.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6c9bc5a7d0fc7d81c4dc065a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cea1114ed1fd01aff3c19c91.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4ba7d571098e6cea902dd3eb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2a21e2b629ca1784cb8cb32a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a0079ae5612155bd3c1b61bb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "64404a574482624b33ced8f5.bin",
+      "size": 15681619
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Among Us",
+  "file": "Among Us.html",
+  "size": 15084971,
+  "sha256": "25a6dfa583d57cf12f4a0b7f50ef9aa0efa70ccbd98bf1eda7f1a73339ff0ce4",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b9ec500b93a44b6e01abd3bd.bin",
+      "size": 15084971
+    }
+  ]
+}
