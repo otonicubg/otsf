@@ -1,0 +1,19 @@
+{
+  "name": "Flip Hero",
+  "file": "Flip Hero.html",
+  "size": 30518906,
+  "sha256": "0a5293d600f22e3dc4249c4fe0f99684eb1ff62fca3adf896bfdc5b3e7d99ecb",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "04fb905f0ec10b980ee1aad3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c1b95a6474121d4e05eb5e7a.bin",
+      "size": 9547386
+    }
+  ]
+}

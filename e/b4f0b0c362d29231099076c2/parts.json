@@ -1,0 +1,23 @@
+{
+  "name": "badegg.io",
+  "file": "badegg.io.html",
+  "size": 51596880,
+  "sha256": "e5076e8cd38ffb27313e798f33069726f4d26c7ab472e14ea7d27e3292b1b730",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b7b4acb5b156f62bb300461f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5ce4df7c8e7ae791c0ce240d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6f44115ce01213fb47742cb5.bin",
+      "size": 9653840
+    }
+  ]
+}
