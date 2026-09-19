@@ -1,0 +1,19 @@
+{
+  "name": "crazy cattle 3d",
+  "file": "crazy cattle 3d.html",
+  "size": 35392721,
+  "sha256": "963c627c379c05f6dd3fe575261e334625c949577ba2ec326ac6c10c9df05064",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "bb7dc8d2ab1f61606e53bbd6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e13b50d408cf6141989db6bf.bin",
+      "size": 14421201
+    }
+  ]
+}

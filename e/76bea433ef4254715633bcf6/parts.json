@@ -1,0 +1,15 @@
+{
+  "name": "Raft Wars",
+  "file": "Raft Wars.html",
+  "size": 13405158,
+  "sha256": "ca0b6ce88722cb16fc3291a6f8d38fd6f480c2f8a2258b6f7d45f29b8a4a8222",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f1a3b46e3e929b08f2d37868.bin",
+      "size": 13405158
+    }
+  ]
+}

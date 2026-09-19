@@ -1,0 +1,15 @@
+{
+  "name": "call of ops 2",
+  "file": "call of ops 2.html",
+  "size": 330796,
+  "sha256": "8981f2799e375eaeddbb011b914d32396a1bde08648a7fda72c601888aaa839c",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "892e61a02146d5dd863d223c.bin",
+      "size": 330796
+    }
+  ]
+}

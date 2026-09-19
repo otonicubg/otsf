@@ -1,0 +1,19 @@
+{
+  "name": "sprinter",
+  "file": "sprinter.html",
+  "size": 37217604,
+  "sha256": "347ad92fb6876c82ac9ab9b22ab872459581772fd9486f48c2199639c24600a1",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "52b76ffadc111f09e34b10ed.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c7ce21a40dd0f0fa4687ab4b.bin",
+      "size": 16246084
+    }
+  ]
+}

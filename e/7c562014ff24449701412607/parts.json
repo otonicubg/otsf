@@ -1,0 +1,15 @@
+{
+  "name": "biker street",
+  "file": "biker street.html",
+  "size": 20790675,
+  "sha256": "a9ce9fe663d0670a054ea677f75ba5969ce98c0a54d80d051e00f2ab7a80cdcf",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9f1d8ac0ce66cf3abbb51a4c.bin",
+      "size": 20790675
+    }
+  ]
+}

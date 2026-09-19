@@ -1,0 +1,183 @@
+{
+  "name": "Hollow knight",
+  "file": "Hollow knight.html",
+  "size": 889245633,
+  "sha256": "918cf5ed96a14233a40c3eac13856385e52b8e8982e92a58533769f22f39475b",
+  "partSize": 20971520,
+  "count": 43,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "933a12c5606dabaecf698e94.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e22e3fbe923bbe4ab0a84f32.bin",
+      "size": 20971520
+    },
+    {
+      "name": "416d56a324d1fe0a0f174eb7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "76eb2ef262d6ae5d8c7f70e6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3ef045a59e394071cc03c1c7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "179f7ab916587cacb224adb0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "443dfa4c52f8dc0f8f4f8eda.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0083bc163bb5dca4240a96f6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c58c793a13703810599cf004.bin",
+      "size": 20971520
+    },
+    {
+      "name": "59aa77299ae46d2de315ad78.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a1a8dc3cf4b84670976be6a8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "21002dc1cfe9b466f4dc0b78.bin",
+      "size": 20971520
+    },
+    {
+      "name": "48ac85c9dc99cb834c62fba6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6be412ca8b7991b65578d66e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "19406b54231041adb093bddc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5cadbb00d5ba30df506d0492.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3c8be94cffe13535baf64a59.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c266c6123b7a5a1db6205ba0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d633843b0d6b652e0d9471d8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "de50dcd00e2d8e33a74ed1ce.bin",
+      "size": 20971520
+    },
+    {
+      "name": "42193f6e45cdf86d432f5609.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fc49b813119a2c1bc79222fb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2ef8eec964410b54c9e10d21.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d8c3ae4d6b4f2d65ba9a78a9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "aa7147ccc7821772399a9ac4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5fb1deee3e71c2fbbedc9a27.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1bc837ee9e9d268054de5635.bin",
+      "size": 20971520
+    },
+    {
+      "name": "52820c9372789727d9110c91.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c40a95fd2fb87b2e347df5c9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8b76dd3073c28accf0ab9fdd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9e98bb0a2a0f76ca57182242.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4a0889ddd4688d31ba9b3dcb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ede1f89587b57fc86bf5a0bb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f71dee77becd6c59785362d9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cf8cc1b73198c897d8552883.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f0520b7598618ada3ed1ad52.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1ca35f96d13edce5264714f8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a33485178d651dca833073c6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1bbab94f09ae2da4c177d728.bin",
+      "size": 20971520
+    },
+    {
+      "name": "75a58badd7b98393eabeba1d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7dc6c201d8f853fa3fa52472.bin",
+      "size": 20971520
+    },
+    {
+      "name": "508fa57a16b24431a9b50abd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3751e74096c90ca906511dd2.bin",
+      "size": 8441793
+    }
+  ]
+}

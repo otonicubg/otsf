@@ -1,0 +1,27 @@
+{
+  "name": "viscous ventures",
+  "file": "viscous ventures.html",
+  "size": 63259930,
+  "sha256": "2582ecb83f62fc9d740e4e2ad3af469d4df1c68f3aa2bd02604b93c3e12981b7",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "43012b64c77f00ba874303a8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bfb48dbbec12eba802b491e1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "673e4288f28618e638cd262d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2a3662e6ed1880d86cb29759.bin",
+      "size": 345370
+    }
+  ]
+}

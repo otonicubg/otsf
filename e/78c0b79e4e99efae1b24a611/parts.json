@@ -1,0 +1,19 @@
+{
+  "name": "gladihoppers",
+  "file": "gladihoppers.html",
+  "size": 28587676,
+  "sha256": "25b9cbc7e0fd79e283eaff1dabab395cce5ab796fc91b68fedbda5a01728b664",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4f66c292a9e728059a439029.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fd4502d3b9360d1f95b7f897.bin",
+      "size": 7616156
+    }
+  ]
+}

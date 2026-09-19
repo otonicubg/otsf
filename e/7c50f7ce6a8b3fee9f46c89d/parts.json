@@ -1,0 +1,19 @@
+{
+  "name": "court kings 3d",
+  "file": "court kings 3d.html",
+  "size": 30317756,
+  "sha256": "6ee4daa9922038c1c81f0641a35706a686f86f65c58ac3e50aeb7f3a0c0441a9",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "922c5a7460545fc09b5a9ecc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d166d098d60bc9e42c232d7b.bin",
+      "size": 9346236
+    }
+  ]
+}
