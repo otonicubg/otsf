@@ -1,0 +1,19 @@
+{
+  "name": "short life",
+  "file": "short life.html",
+  "size": 32944645,
+  "sha256": "b372bb179f1251a9cd67312f784a062d0a8fd28d0bf48b47a2aafb5416cf89a0",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e61cf98e52fbb65e8a36a805.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ce7cbda803f2b58475306f79.bin",
+      "size": 11973125
+    }
+  ]
+}

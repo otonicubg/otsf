@@ -1,0 +1,15 @@
+{
+  "name": "Alien Hominid",
+  "file": "Alien Hominid.html",
+  "size": 4903500,
+  "sha256": "82795692585d14a21970a0baa0df9f9e8fff26d41241770cdb8036b74fc31241",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "632a39c9c46f13dd46fd9e71.bin",
+      "size": 4903500
+    }
+  ]
+}

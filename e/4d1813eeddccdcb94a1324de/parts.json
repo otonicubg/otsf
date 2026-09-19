@@ -1,0 +1,23 @@
+{
+  "name": "city rider",
+  "file": "city rider.html",
+  "size": 53457500,
+  "sha256": "49db96628aa21483f48fc8a63af983dc53585ee4a9d2306eae6384495bf94e15",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2077c44eb9b1789271d92254.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e4cbaad3d1ef299188e90df7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3eab0571d9e3cd345a95907a.bin",
+      "size": 11514460
+    }
+  ]
+}

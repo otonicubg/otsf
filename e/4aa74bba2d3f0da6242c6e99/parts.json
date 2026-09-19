@@ -1,0 +1,15 @@
+{
+  "name": "pixel apocalypse",
+  "file": "pixel apocalypse.html",
+  "size": 333814,
+  "sha256": "e81cd14d3a9fb477f4c0481ca3f95e306d2683be30a06cc980ce86d288b5d235",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "80f391107d3ef41f25c132c5.bin",
+      "size": 333814
+    }
+  ]
+}
