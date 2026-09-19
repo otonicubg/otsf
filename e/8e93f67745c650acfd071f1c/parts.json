@@ -1,0 +1,19 @@
+{
+  "name": "blacken slash demo",
+  "file": "blacken slash demo.html",
+  "size": 35352867,
+  "sha256": "d94c9a53e5baa174719b97908d3a80ba43ee9842a6ac5baaf8e1a1fd37c8d147",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1cf43c2abdce6ec500655052.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cc2e7f5149d5874ab954c712.bin",
+      "size": 14381347
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "magirune",
+  "file": "magirune.html",
+  "size": 38891160,
+  "sha256": "bdc5a9d52ddaad8d21e7fbb6e3e9fcadb93243954930814c502dcf3a113e566e",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a23b1c8ced9a1fc5fc214496.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2c655fd395c0f1c4cd17cb8b.bin",
+      "size": 17919640
+    }
+  ]
+}

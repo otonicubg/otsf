@@ -1,0 +1,23 @@
+{
+  "name": "dinogen arena",
+  "file": "dinogen arena.html",
+  "size": 43877222,
+  "sha256": "a182baaa3f940b0984dc586760c34e2875cdafb55a8ceaf40600b6d5f1da3837",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4ac84a2b6f362f2fdb637cd3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "48ee0f6365b255bd2b5176e3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b963caf2c3a38d20aa83a3eb.bin",
+      "size": 1934182
+    }
+  ]
+}

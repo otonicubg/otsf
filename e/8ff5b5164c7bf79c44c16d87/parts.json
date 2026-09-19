@@ -1,0 +1,19 @@
+{
+  "name": "murder is game over",
+  "file": "murder is game over.html",
+  "size": 24271425,
+  "sha256": "b1255bf0aa14669d8ed57ae62a866019fb2dffbf76a35eb28f5e8882ed869772",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "921159e43563025d452e4221.bin",
+      "size": 20971520
+    },
+    {
+      "name": "60209e75fbc8d8315745e4d2.bin",
+      "size": 3299905
+    }
+  ]
+}

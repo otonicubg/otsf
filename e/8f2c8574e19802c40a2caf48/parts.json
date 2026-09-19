@@ -1,0 +1,19 @@
+{
+  "name": "dubai police parking 2",
+  "file": "dubai police parking 2.html",
+  "size": 33145352,
+  "sha256": "f7d14d495b1c703fb175f66418a474566252f3e24b0c798a054c84d0030786b5",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "cbe43136cc6eb16219510404.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3e8295f5b1d67f5cfb62bfa2.bin",
+      "size": 12173832
+    }
+  ]
+}

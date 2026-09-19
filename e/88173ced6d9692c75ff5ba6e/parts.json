@@ -1,0 +1,19 @@
+{
+  "name": "Auto Necrochess",
+  "file": "Auto Necrochess.html",
+  "size": 38419731,
+  "sha256": "279b332e6f077bcee5f9c696958980c5068a139561fb5c13ab9d47cc918ef6a6",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0e2cb23c309cd78b2ba88be0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b87ba8708c41cf940cabadbb.bin",
+      "size": 17448211
+    }
+  ]
+}
