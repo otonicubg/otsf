@@ -1,0 +1,79 @@
+{
+  "name": "R.E.P.O",
+  "file": "R.E.P.O.html",
+  "size": 340326961,
+  "sha256": "61d6c5ae2474406ef8f6448d9f610041c40d4d7df864f7d5e5045a8988e708be",
+  "partSize": 20971520,
+  "count": 17,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f3b86e6955206c5b14ff875e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bbf8ec88ed6eea5da24ccafa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6219713ff29418984e8942b2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "de1d88d1d26caaa1cd2caadc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4ef55384d9ae612830dd1bb6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "69d373a3b4a781e8c368b142.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4041b23f7372e499d62a6d28.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f347f97d3b69b594bb673d0a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b59a8fc85e6f9131dfe8fd90.bin",
+      "size": 20971520
+    },
+    {
+      "name": "98a866ce413a8de70ce39b8f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6f7c0af235785956637a4418.bin",
+      "size": 20971520
+    },
+    {
+      "name": "07a1f426afbe5ebb41e2fd58.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e3764bbb1572f087baa40126.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b4cbc7358b85debc1355419d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b8718cceff3c75fc81fc384b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "127bfc70f3f950363ef4c680.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cdb4be4f398ee9688b3ff869.bin",
+      "size": 4782641
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Kindergarten 3",
+  "file": "Kindergarten 3.html",
+  "size": 42191688,
+  "sha256": "bc3470c18f500ea868db4b881f4da52657e298df4fccdf5e735e71e9fa5d52e5",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b07b9626b4834efc042b8def.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3529508dee8418551cff11f4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dfeaef9081053ce48687ffd8.bin",
+      "size": 248648
+    }
+  ]
+}
