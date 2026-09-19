@@ -1,0 +1,27 @@
+{
+  "name": "nova cloudwalkers",
+  "file": "nova cloudwalkers.html",
+  "size": 79758991,
+  "sha256": "bd1d4b7d44405935b31661d1989d0a5d3d0af99bfd7333c8a1894f6e1745c7db",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dfabe7956582b201d7cc4c98.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6652af57b5111192e4569ebc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "baecde658b8d761dadc159e2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b76009292dd764cf54a8cf1a.bin",
+      "size": 16844431
+    }
+  ]
+}
