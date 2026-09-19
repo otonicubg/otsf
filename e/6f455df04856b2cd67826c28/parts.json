@@ -1,0 +1,27 @@
+{
+  "name": "marble dash",
+  "file": "marble dash.html",
+  "size": 64622397,
+  "sha256": "108dd80cbce45969901916ca6e53ac29b6a49f4ebf8c85f0e66b8a21c92571be",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b25a218b6576bb8937f4ed4e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bef0d18d9d71c8c36cf648a2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "718d0a50b90bc189a4747fb6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bfb6e6cdba15e990b153c91c.bin",
+      "size": 1707837
+    }
+  ]
+}

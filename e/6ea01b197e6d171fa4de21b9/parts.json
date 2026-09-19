@@ -1,0 +1,19 @@
+{
+  "name": "puppet master",
+  "file": "puppet master.html",
+  "size": 30551458,
+  "sha256": "d66d090e638cab3b12d1f30fa6df760a304d37181e3c3cacaa13cd87a35ad3c3",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "833ebb3e7aeb01eba05a03c7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "098eaac621ac2cc73c81d986.bin",
+      "size": 9579938
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "super mx the champion",
+  "file": "super mx the champion.html",
+  "size": 47542312,
+  "sha256": "01203546a145f3b7effef5f7b34e931439cfb269ae386b21f5f5df8839d121de",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4e7a1de7dd1b4e3bf2438ef2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "869d7d1ce094d17b39ec63b0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "754871b61e9025a715465cb3.bin",
+      "size": 5599272
+    }
+  ]
+}
