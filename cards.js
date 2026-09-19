@@ -1099,11 +1099,8 @@ let cards = [
     {id: 1111, name: 'Five nights at epsteins', image: '.png', path: 'FNAE', split: 'ac649321cbc78d70ddf5f750/parts.json'},
     {id: 1112, name: 'Silksong', image: '.jpg', path: 'Silksong', split: '06e54133468efe93a3cc0b7b/parts.json'},
     {id: 1113, name: 'Backrooms', image: '.webp', path: 'Backrooms', split: 'dce44bdbcb39d40fc7af230a/parts.json'},
-    {id: 1114, name: 'Shellshockers', image: '.jpg', path: 'shellshock', split: '8ae2e76333f8f684b3496817/parts.json'},
-    {id: 1115, name: 'Real slither.io', image: '.png', path: 'real-slither.io', split: '2e81e16cd8546437c9527655/parts.json'},
     {id: 1116, name: 'Brotato', image: '.jpg', path: 'brotato', split: '03637e0afd892f3a8ecb839e/parts.json'},
     {id: 1117, name: 'War the knights', image: '.jpeg', path: 'war-the-knights', split: 'eb86aa40026883e062bf0c27/parts.json'},
-    {id: 1118, name: 'Cesar', image: '.png', path: 'real-slither.io', split: '2e81e16cd8546437c9527655/parts.json'},
 ]
 
 export { cards }
