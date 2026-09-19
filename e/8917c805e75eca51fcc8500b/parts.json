@@ -1,0 +1,31 @@
+{
+  "name": "Karlson",
+  "file": "Karlson.html",
+  "size": 104107872,
+  "sha256": "f4689debfb42564f5c1d21a5aebc43d1bc3b1365f704828f3f87a6c754f03f82",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b607cc0336be39706450a28f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a02e1669361e8bb942fc7b1f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2d2b2c5bad98e0ab1c142b04.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ffaa6c65ab8b3259aab66cfb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4445932b2decf2806d891708.bin",
+      "size": 20221792
+    }
+  ]
+}

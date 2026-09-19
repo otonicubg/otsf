@@ -1,0 +1,19 @@
+{
+  "name": "drag box",
+  "file": "drag box.html",
+  "size": 24281977,
+  "sha256": "85b2dab9ac504a428ab545ba3ffcf6aba79c51c466e251da4c2e1e543edcdd73",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ccb4c1ce6319717c6b7aeb04.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c8e721ab66881b680a1a021e.bin",
+      "size": 3310457
+    }
+  ]
+}
