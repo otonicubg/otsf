@@ -1,0 +1,19 @@
+{
+  "name": "strike force heros",
+  "file": "strike force heros.html",
+  "size": 30046797,
+  "sha256": "c0fe24f9df9cc76b0384440c607df79e060a5ac43b96f5b4ad572d20bf28d02c",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ef931e021eba3a3a910371c8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5a5f1df8aaaae47c28097e52.bin",
+      "size": 9075277
+    }
+  ]
+}

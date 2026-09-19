@@ -1,0 +1,23 @@
+{
+  "name": "crazy tunnel 3d",
+  "file": "crazy tunnel 3d.html",
+  "size": 44843518,
+  "sha256": "76b2d60e5c9c67693579c9a854885d265389ee942414e97cdebb6103d20e68e6",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "8bf277a2127beef197da4a52.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c67079993d9a1831e8aeba72.bin",
+      "size": 20971520
+    },
+    {
+      "name": "476f21819e03c1d00c92ee50.bin",
+      "size": 2900478
+    }
+  ]
+}

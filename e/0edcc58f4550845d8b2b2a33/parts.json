@@ -1,0 +1,19 @@
+{
+  "name": "inversion",
+  "file": "inversion.html",
+  "size": 26126049,
+  "sha256": "4621c18e2049e33c525dda9e3a323ddd879d0386552baf4c4f003459c575703b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0efa2b2b4e95255cc19f11e9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9454cfe51892584d4a005b4e.bin",
+      "size": 5154529
+    }
+  ]
+}
