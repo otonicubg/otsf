@@ -1,0 +1,15 @@
+{
+  "name": "just one boss",
+  "file": "just one boss.html",
+  "size": 567522,
+  "sha256": "672eb57ff1fa98178fe7f9094b531da677d91813c266ab86cc54dac6bad6c356",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e283e3e9e20e1c9fd0305a6a.bin",
+      "size": 567522
+    }
+  ]
+}

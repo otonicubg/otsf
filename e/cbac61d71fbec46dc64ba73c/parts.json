@@ -1,0 +1,23 @@
+{
+  "name": "laqueus escape chapter 1",
+  "file": "laqueus escape chapter 1.html",
+  "size": 53772041,
+  "sha256": "d02e23beb46e02cfef1fe24c07b9ff50fffc8564323c8746720493b3b83d2639",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "00214794300c2280a958b282.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6ef541216ba8e4e6adec971d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a20df1d9132b29a40b1670d3.bin",
+      "size": 11829001
+    }
+  ]
+}

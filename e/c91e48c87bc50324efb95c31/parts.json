@@ -1,0 +1,19 @@
+{
+  "name": "10 Minutes Till Dawn",
+  "file": "10 Minutes Till Dawn.html",
+  "size": 30821816,
+  "sha256": "92a4bedf04372f7d65c9cfc464adb0408840dc16dc0a8af386065dc1ba4fff84",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d109a413b4c9088a7810be3b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c1f888b9edbf444a50c88983.bin",
+      "size": 9850296
+    }
+  ]
+}

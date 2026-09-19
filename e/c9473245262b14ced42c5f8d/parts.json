@@ -1,0 +1,15 @@
+{
+  "name": "Square Hero",
+  "file": "Square Hero.html",
+  "size": 13929784,
+  "sha256": "e96837fafe4ec57db90694060214f7e4c2ff22c95f5018741528c39b45b000ce",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "df51a66d69367a6c876967a1.bin",
+      "size": 13929784
+    }
+  ]
+}
