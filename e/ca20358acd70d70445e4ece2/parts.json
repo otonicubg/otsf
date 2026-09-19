@@ -1,0 +1,27 @@
+{
+  "name": "Geometry Dash Lite",
+  "file": "Geometry Dash Lite.html",
+  "size": 63645908,
+  "sha256": "aea0b31be9a8de58eda04bf0d806bcabeb1d0a30bebffa921fbe930c21b31972",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a32a473a007a8f49fb0fc692.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1de6e69a2f798855403ca90a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0dc6956873de7c9c559fde4f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dec1566df1d964537dd4255a.bin",
+      "size": 731348
+    }
+  ]
+}
