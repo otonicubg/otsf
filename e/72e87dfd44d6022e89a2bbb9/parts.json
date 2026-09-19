@@ -1,0 +1,19 @@
+{
+  "name": "alien invaders.io",
+  "file": "alien invaders.io.html",
+  "size": 26353895,
+  "sha256": "0d86eed8ce159af06b5091643e10b5936bddba480f9ed5d370da79af41c3b942",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a87256bb320564328f40fb54.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e851acb1774abc95bb8f9655.bin",
+      "size": 5382375
+    }
+  ]
+}

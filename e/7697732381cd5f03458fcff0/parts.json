@@ -1,0 +1,15 @@
+{
+  "name": "basketball.io",
+  "file": "basketball.io.html",
+  "size": 334904,
+  "sha256": "6048e7b86618d1d22d49e5df9c13e76606ac3c9dc143a82d56c71f2f32a54e60",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fbc956a72090cec48df9917d.bin",
+      "size": 334904
+    }
+  ]
+}

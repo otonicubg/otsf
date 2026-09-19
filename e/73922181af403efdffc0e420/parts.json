@@ -1,0 +1,47 @@
+{
+  "name": "Cube Miner",
+  "file": "Cube Miner.html",
+  "size": 181734771,
+  "sha256": "635675e4e687d26835d6848982cb4ac0df2aaac847094051aa1ff40a134ca5d3",
+  "partSize": 20971520,
+  "count": 9,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "e46b20d7d81a3db08443c752.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3cb5664aa4b938768786545e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9bb96594f49793ddcb18855d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "df26ec25bf64666c312ef879.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b123ecf48cb0b5f83778baa6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "10a4fe9c2eda561f1bac8f12.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d1b37ae7e2baff2cedbcbced.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3c62b8ea47780f718a16a09b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9b8de5c2e3b5b1f8b661351e.bin",
+      "size": 13962611
+    }
+  ]
+}
