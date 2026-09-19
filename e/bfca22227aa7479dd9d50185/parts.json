@@ -1,0 +1,23 @@
+{
+  "name": "Baldis Basics",
+  "file": "Baldis Basics.html",
+  "size": 43022395,
+  "sha256": "867eb9dde52d88d1362bc5d0acdbe5f968ff15066d41376790ce63394624ea1f",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1aa014ad5bc677f1cf202837.bin",
+      "size": 20971520
+    },
+    {
+      "name": "76e4069c0fa5aa596186e6ea.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2acc4c0b1fa05974c3b75bff.bin",
+      "size": 1079355
+    }
+  ]
+}
