@@ -1,0 +1,19 @@
+{
+  "name": "fruitninja",
+  "file": "fruitninja.html",
+  "size": 22010143,
+  "sha256": "07ea6730f00febe6f2baae264de4d638ac9a2f889534ab08520d3fc8490a17de",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4a16b1907638966247568171.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2a48c9a140675527bf4eb6d8.bin",
+      "size": 1038623
+    }
+  ]
+}

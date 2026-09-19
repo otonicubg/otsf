@@ -1,0 +1,39 @@
+{
+  "name": "People playground",
+  "file": "People playground.html",
+  "size": 129688448,
+  "sha256": "da2c05a37bc62876c5d92df66a7d82eae74b7a5ee938e26e179bba5bbd2639c6",
+  "partSize": 20971520,
+  "count": 7,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "91424addadc786cbbb1ea47d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9ab699d33acfe8e668d2353c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9503b3a91aa7fcaa87c6034e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "12d4dab243c0bc8464c060fc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "18e42443021be507e80b64dd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3a6df674f7d430b8aa9d085b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "21aecdcaee8a60abc8281afa.bin",
+      "size": 3859328
+    }
+  ]
+}
