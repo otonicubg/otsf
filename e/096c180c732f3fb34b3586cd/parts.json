@@ -1,0 +1,19 @@
+{
+  "name": "jewels blitz 2",
+  "file": "jewels blitz 2.html",
+  "size": 26537723,
+  "sha256": "411bc26edf216a24fa6429d76e1bf13b364c3bd7cc1bb4cc24892b33f6c7b206",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "0237d7ebf0698bbdb3fa9c99.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8662ff0da7464fc95618976a.bin",
+      "size": 5566203
+    }
+  ]
+}
