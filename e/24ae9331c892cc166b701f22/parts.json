@@ -1,0 +1,23 @@
+{
+  "name": "car climb racing",
+  "file": "car climb racing.html",
+  "size": 53831610,
+  "sha256": "2654d738f9b13e8ebd39a9d52305ead374c74c1ba8cb58d51e05e668d27cf46c",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "972609816255020d5b6909c8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2a0b4a7756226acd238f11dd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f04ee84f8c74a23ca6bca351.bin",
+      "size": 11888570
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "stick duel battle",
+  "file": "stick duel battle.html",
+  "size": 58645199,
+  "sha256": "59fd1f348ccf4c59f72d7e01fd3841a72333ff5a65001a1062067f693b4362bf",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "5e4f1565c935a8c7ae161c17.bin",
+      "size": 20971520
+    },
+    {
+      "name": "904304c171af7b5322551ccd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "644d7c057de7808a1ef35c39.bin",
+      "size": 16702159
+    }
+  ]
+}

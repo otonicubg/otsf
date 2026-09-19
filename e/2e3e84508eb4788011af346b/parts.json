@@ -1,0 +1,15 @@
+{
+  "name": "racer",
+  "file": "racer.html",
+  "size": 10179109,
+  "sha256": "6c0a433891221885087da62c9107de9ec076c2e40a0d5471822aa289fb26fc7f",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c4f9a4add1f91dab4062c0d1.bin",
+      "size": 10179109
+    }
+  ]
+}

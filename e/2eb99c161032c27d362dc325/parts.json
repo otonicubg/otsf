@@ -1,0 +1,15 @@
+{
+  "name": "blue",
+  "file": "blue.html",
+  "size": 7017951,
+  "sha256": "af4aee10d5c546073802a374817d58fdc5619d24ffb13c59db8db274add38eaf",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a75d1dd355d8f2f2c6153227.bin",
+      "size": 7017951
+    }
+  ]
+}

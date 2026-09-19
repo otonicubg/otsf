@@ -1,0 +1,23 @@
+{
+  "name": "skiing fred",
+  "file": "skiing fred.html",
+  "size": 58540752,
+  "sha256": "feae36d7c8accc909abcdf2fae2eb6eabdc38a773b8666309fe5a4f30404fd2e",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "9c452fc197d4190e15ccd7d5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ef38cfb31802171097f4d3cd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e37cdde67a84cbea0856b613.bin",
+      "size": 16597712
+    }
+  ]
+}

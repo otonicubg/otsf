@@ -1,0 +1,23 @@
+{
+  "name": "run billy run",
+  "file": "run billy run.html",
+  "size": 44936964,
+  "sha256": "07790cc18fe7d33228d84178580eff8e855ce49a7f25317930eff9e426f74f8c",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "d98d38f5c710d446742fb33b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cdbb1c4456f308181c422f17.bin",
+      "size": 20971520
+    },
+    {
+      "name": "43f3da6bf304808a9434ea51.bin",
+      "size": 2993924
+    }
+  ]
+}
