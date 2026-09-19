@@ -1,0 +1,23 @@
+{
+  "name": "paper fighter",
+  "file": "paper fighter.html",
+  "size": 46225160,
+  "sha256": "2b1bac2ddb84a391005f76b2d2524c2420068b12041fda62741c1956805a262f",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "79ba76cf7b495a759238f20e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b5564653374f89ab90f33793.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e6e8524e3e2fa44800fef059.bin",
+      "size": 4282120
+    }
+  ]
+}

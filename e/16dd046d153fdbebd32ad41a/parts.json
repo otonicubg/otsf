@@ -1,0 +1,23 @@
+{
+  "name": "highway traffic",
+  "file": "highway traffic.html",
+  "size": 42269708,
+  "sha256": "e651c3821afaa42c4791a97481c03fe9f046c6c452a9dde75e15d42fbea349c0",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "4022699352f928fa1c9047fa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "405f054aa816c849bea8d925.bin",
+      "size": 20971520
+    },
+    {
+      "name": "942bb019adb5e91be15eca8a.bin",
+      "size": 326668
+    }
+  ]
+}
