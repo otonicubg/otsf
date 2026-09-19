@@ -1,0 +1,31 @@
+{
+  "name": "Subway Surfers San Fran",
+  "file": "Subway Surfers San Fran.html",
+  "size": 84786692,
+  "sha256": "6b56f3a306ef82b5b8143114a4588828df482be03d5b9917b2fa89d0027d0198",
+  "partSize": 20971520,
+  "count": 5,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "37a56c8505067fd3322f9da5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1ba4628dab12d87cb2097695.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c8d77599f9ced7bfb04c5af5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2fe0048610b79cbc86ced885.bin",
+      "size": 20971520
+    },
+    {
+      "name": "928fa739eea264520b94845f.bin",
+      "size": 900612
+    }
+  ]
+}
