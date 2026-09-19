@@ -1,0 +1,143 @@
+{
+  "name": "Getting Over It",
+  "file": "Getting Over It.html",
+  "size": 683863575,
+  "sha256": "fbab543c14e3e25aa91d031ccf3616a0f53d4883f7d9810fdecf5dcf9b025f15",
+  "partSize": 20971520,
+  "count": 33,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "eebfb34b771ff9b82a3244b0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3924f1a2f1426548d375b8c3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "45c52850687419fa81b77fee.bin",
+      "size": 20971520
+    },
+    {
+      "name": "65bb2d02f613c43f42f78183.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9031312ea70cd3647fd4429f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4e9f02946d4b66fd0410eeea.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f7bf891491d6ebed2a821d81.bin",
+      "size": 20971520
+    },
+    {
+      "name": "022221d70beed9add16c8248.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c45de5a6004bef40a9607267.bin",
+      "size": 20971520
+    },
+    {
+      "name": "fa75c8366f0a3b81e51786ac.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f626d772c2b7bdd0e085116c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e53a3ea5704c9f6d1be6a7e8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b8852bc06cbcd494c618c8f8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1fd773116c859d302419a91b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bd73e7aef9b8424e17f22c20.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cb19ae213cc107373b299450.bin",
+      "size": 20971520
+    },
+    {
+      "name": "95f7752b6905bce5ecc8a578.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3d883a2d16d9444915f2d156.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5c2298d5f812c37717896f43.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e6f5bf794a9795fbf27efb68.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d819aab0de7ad3629c5daecf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "052a1ad5402fedc926f5a5fa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e3686f2f771dba841f650723.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bf4fd0fa5c271eb782b4d261.bin",
+      "size": 20971520
+    },
+    {
+      "name": "92dde320dd8ce98ed3beb0cc.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e9c4a19216f1c2a107b93d21.bin",
+      "size": 20971520
+    },
+    {
+      "name": "445231b045c32ef70d51421a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5bfb5c840aa598a334b2b93b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "03d46bc69dccb36f4345754b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b73ae4f2bde1f9fba2377759.bin",
+      "size": 20971520
+    },
+    {
+      "name": "899fa4b6a2a3345a3491ae45.bin",
+      "size": 20971520
+    },
+    {
+      "name": "72d0165644c1cc94a59b1b08.bin",
+      "size": 20971520
+    },
+    {
+      "name": "04805fdd6274647202983b31.bin",
+      "size": 12774935
+    }
+  ]
+}
