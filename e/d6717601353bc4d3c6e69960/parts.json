@@ -1,0 +1,23 @@
+{
+  "name": "aqua thrills",
+  "file": "aqua thrills.html",
+  "size": 44289208,
+  "sha256": "b462e14fffd27848d64c1a97905931ee70a2a33d6f04ed90f8f403ab26758025",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "90a57bab90dd5908a7df4e74.bin",
+      "size": 20971520
+    },
+    {
+      "name": "238844be4db596ff20392b20.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b46dfad8ed715da29a869f1c.bin",
+      "size": 2346168
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Indian truck simulator",
+  "file": "Indian truck simulator.html",
+  "size": 55863675,
+  "sha256": "08ff118bb019e7d5fb033ba8b8021d560df854cc44d6bfaec5b3c10b34c9184a",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "a504ed355de22cd8356a1487.bin",
+      "size": 20971520
+    },
+    {
+      "name": "55bc4baf718fb4f2fefd0c58.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d4d6f78e737932f7770f5dd4.bin",
+      "size": 13920635
+    }
+  ]
+}

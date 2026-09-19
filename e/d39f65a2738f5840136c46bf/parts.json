@@ -1,0 +1,27 @@
+{
+  "name": "burnin rubber crash n burn",
+  "file": "burnin rubber crash n burn.html",
+  "size": 68341003,
+  "sha256": "2d77771b339b435e88fa16b15c2bd5828eb1d7987d59a5c41594419eddb5d900",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "48d189497f4a89041063d97f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "058cb51914e3d290939bfbc4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "4052fa24482dfde24ac16a7b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e53e64ef19d8154f885ea999.bin",
+      "size": 5426443
+    }
+  ]
+}

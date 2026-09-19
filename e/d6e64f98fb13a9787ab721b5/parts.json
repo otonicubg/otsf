@@ -1,0 +1,19 @@
+{
+  "name": "Just Fall",
+  "file": "Just Fall.html",
+  "size": 23794544,
+  "sha256": "ac605810fd60d5aaf39099f91801b011f6af7c9240a118e7107073473b2a678f",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "b82a538937712f558425b631.bin",
+      "size": 20971520
+    },
+    {
+      "name": "73c5fa821c00614bf921e320.bin",
+      "size": 2823024
+    }
+  ]
+}

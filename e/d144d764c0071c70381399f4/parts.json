@@ -1,0 +1,23 @@
+{
+  "name": "1v1.lol",
+  "file": "1v1.lol.html",
+  "size": 57291083,
+  "sha256": "529e7a67502c82a0e5108327342e728943d8f75a93f78dda1a22b80febdae9eb",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "2c7e82d30e21466f5a7ded1e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ad4179259f3c6d98016af47b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e37bbc4c74a2ae444ebe8ad0.bin",
+      "size": 15348043
+    }
+  ]
+}
