@@ -1,0 +1,287 @@
+{
+  "name": "Amanda the adventurer",
+  "file": "Amanda the adventurer.html",
+  "size": 1431576482,
+  "sha256": "c3ab801bf9af7556632bf5f52fef0385ae11cea3bf0382f5d0a9d6e197fd697a",
+  "partSize": 20971520,
+  "count": 69,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c03aec517433ddaa5196441c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3ec09d4af5b1d7d9c99fd160.bin",
+      "size": 20971520
+    },
+    {
+      "name": "5ec8875d8164f496e8a626f5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "013abd372f686dcaabbe8718.bin",
+      "size": 20971520
+    },
+    {
+      "name": "651071dad56d38d340d24ef3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ad1a0d9ca6a66bae812fd5b8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "19058b764133388518a2cfbf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3aa1196ff6f5cb20c504cf41.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9cd2e6eb71a44b3b6661023e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "772ed278323b1954297dd991.bin",
+      "size": 20971520
+    },
+    {
+      "name": "79646236425fc0a4f396cb3a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7e202eed1495d020062579aa.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2fecd5be47ba9ef841eb28a2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b19be2f0f226b33ac4751a22.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8f80d988426d36a78b0d961c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b1e9bfbff997975e04bee3f2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "687cd896a6d12dcafa05f1a5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "98948a980434caeb7def32a8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2cc8aa97a85fd69ec4599ddb.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8b5ab3fa13278b6d50954e33.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d381fd07fb31e3d5cef26976.bin",
+      "size": 20971520
+    },
+    {
+      "name": "365da0c60f688e02d82237fe.bin",
+      "size": 20971520
+    },
+    {
+      "name": "adef0f9c1e2507181717e232.bin",
+      "size": 20971520
+    },
+    {
+      "name": "566a5beb6c09ea0a15777490.bin",
+      "size": 20971520
+    },
+    {
+      "name": "615d36f30ab3e0d5f596af2e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ec3ff4537e0c0081eac391db.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ca7dbf2299ae7bdda4778db8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "967d76896bdd452c0508cd93.bin",
+      "size": 20971520
+    },
+    {
+      "name": "71d9128cb56b489048579e5b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "051b436753b04162f9e8b2e6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c7ed9ebb54b495eb26a694ba.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ac3e0d947b532600dceae295.bin",
+      "size": 20971520
+    },
+    {
+      "name": "25afd31a8ed820edd7b64d80.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6470e566575114d20d7349ab.bin",
+      "size": 20971520
+    },
+    {
+      "name": "29ab6f8db3a7182d811facec.bin",
+      "size": 20971520
+    },
+    {
+      "name": "06a9b12f8a36c46b2a271972.bin",
+      "size": 20971520
+    },
+    {
+      "name": "a64b2f68cd1626af359c3b08.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f788c335dccb10d9b2766ca0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2cadcc6541d9af6c99444b5d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e4a2085e4bc312aee0454006.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1ad36efb2a72f2730c2e36a9.bin",
+      "size": 20971520
+    },
+    {
+      "name": "89788204c3f870b278e55e63.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3eeb7dd9814d7b15ddcbaba6.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c74f20d1ac172220846f2317.bin",
+      "size": 20971520
+    },
+    {
+      "name": "aecb3cb60f391a4afe3dfd1d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e5bed42d6a67b5234d6bfb61.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0a133398de1495d89579281b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "97de506d53516c2a7c5416ff.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c3165537dfcba35be53c4ca2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c78cf0b0e9aa98a53b3ebcd1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6f881a64063bada08eeb51d4.bin",
+      "size": 20971520
+    },
+    {
+      "name": "9971ad8a014196e7570a5f9c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "075420b0784d4c70a86b7413.bin",
+      "size": 20971520
+    },
+    {
+      "name": "46e8d49ef9517163fccf5f41.bin",
+      "size": 20971520
+    },
+    {
+      "name": "45bf546c5bfe24386d93f4a8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "afe74109417f97901af968bf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dae71a70176a3a062c64a671.bin",
+      "size": 20971520
+    },
+    {
+      "name": "7070d8a840b083eaf4324af2.bin",
+      "size": 20971520
+    },
+    {
+      "name": "32234f967cad691532137c62.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f5352aa837529d580879f5c7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c7c1a62d22a0d4c8246a1ed3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c28c51d4bc9b99100b9d2b22.bin",
+      "size": 20971520
+    },
+    {
+      "name": "bd3ab510b25a69d32da257e3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "cd4b34226c720ae4b9d91fcd.bin",
+      "size": 20971520
+    },
+    {
+      "name": "1a849e7c8c4af530fb55dfe8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "80b51ef7afd40063f9a784f0.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ca526677a6c52f219b5c05f8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d222afa80af1aec1e454a102.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ec6f865bc86bbdafa11cc159.bin",
+      "size": 5513122
+    }
+  ]
+}
