@@ -1,0 +1,23 @@
+{
+  "name": "red ball 4",
+  "file": "red ball 4.html",
+  "size": 48624656,
+  "sha256": "5325107a32c51ea2be08f0a692ecf2eb1d562963e9cca3443eba66de5ef7190d",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f5044df5130efae373efeb75.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8cb66aa42b0456d76af3a7d7.bin",
+      "size": 20971520
+    },
+    {
+      "name": "94c66d5ee20ff7e4f152b9d8.bin",
+      "size": 6681616
+    }
+  ]
+}

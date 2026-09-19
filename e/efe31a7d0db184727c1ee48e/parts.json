@@ -1,0 +1,23 @@
+{
+  "name": "ovo",
+  "file": "ovo.html",
+  "size": 44138580,
+  "sha256": "fc80a12b99cad790125769bc8507d070cd8cafe1a1daf5bc745ae1ebec957005",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "ca68d280bff3c96f2f58db7e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "02de465ff6053fca6102592c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "22aa636d52b99b325df2269a.bin",
+      "size": 2195540
+    }
+  ]
+}

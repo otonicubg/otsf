@@ -1,0 +1,23 @@
+{
+  "name": "extreme off road cars",
+  "file": "extreme off road cars.html",
+  "size": 57491285,
+  "sha256": "4c370670c904cf6d324f69cef91c6b85dc4b5736e4a3b3387d4f063ebec2143f",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "81fcfd050b9e50b61716e3d1.bin",
+      "size": 20971520
+    },
+    {
+      "name": "417f4d141ca3769cd10a9c15.bin",
+      "size": 20971520
+    },
+    {
+      "name": "8f5486922fff0dd4ca1bf9b6.bin",
+      "size": 15548245
+    }
+  ]
+}

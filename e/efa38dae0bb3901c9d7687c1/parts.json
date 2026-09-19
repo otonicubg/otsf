@@ -1,0 +1,19 @@
+{
+  "name": "decent",
+  "file": "decent.html",
+  "size": 21526455,
+  "sha256": "4f7462cdfca6b78589e2c6e734419f9b1a778425fae5655a67e1d936ee2b5e4b",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "91f5c564c1af19e1ddb70c49.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e988cb65bed742f21b4a838e.bin",
+      "size": 554935
+    }
+  ]
+}
