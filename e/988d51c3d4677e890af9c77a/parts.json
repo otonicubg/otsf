@@ -1,0 +1,15 @@
+{
+  "name": "cannon basketball 2",
+  "file": "cannon basketball 2.html",
+  "size": 10963881,
+  "sha256": "cefe012f1185a236a0adb88546752304614e68517f861988ea058ca0df012da2",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "858ec22346f73544eee55d81.bin",
+      "size": 10963881
+    }
+  ]
+}

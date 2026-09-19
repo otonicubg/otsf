@@ -1,0 +1,15 @@
+{
+  "name": "Connect 3",
+  "file": "Connect 3.html",
+  "size": 269613,
+  "sha256": "ccec310c79a097f11ed96df28b86d4ea791ee78495b187356a7b06e511129974",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "122fe7150269afbfd8def330.bin",
+      "size": 269613
+    }
+  ]
+}

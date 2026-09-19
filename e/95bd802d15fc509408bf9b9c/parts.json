@@ -1,0 +1,27 @@
+{
+  "name": "armedforces.io",
+  "file": "armedforces.io.html",
+  "size": 70628936,
+  "sha256": "c76f54da21a26aa0ad2492570b48c705cf750d943f3441fbadcce277f488fd92",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7f48de15cf196bb663d2ab9e.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3d071b03fc5d84e8ecc62380.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c326e5d56fc232703a16ba8b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "124ef2cf951344fb1ab53656.bin",
+      "size": 7714376
+    }
+  ]
+}
