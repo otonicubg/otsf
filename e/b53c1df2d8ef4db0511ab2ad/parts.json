@@ -1,0 +1,27 @@
+{
+  "name": "traffic tour",
+  "file": "traffic tour.html",
+  "size": 74047462,
+  "sha256": "9684b05e0b844a67e942fae07783761f9bd294bc32cc77433afbe33400827c88",
+  "partSize": 20971520,
+  "count": 4,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "fe45734aadb8a26e801f6240.bin",
+      "size": 20971520
+    },
+    {
+      "name": "00b75f6de8550e878886d70c.bin",
+      "size": 20971520
+    },
+    {
+      "name": "dd6e2458c338216d14dc5397.bin",
+      "size": 20971520
+    },
+    {
+      "name": "27f355147bbfe66f2b908173.bin",
+      "size": 11132902
+    }
+  ]
+}
