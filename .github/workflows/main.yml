@@ -5,43 +5,47 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate and push version file
+      - name: Update version file
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_SHA: ${{ github.sha }}
           GH_REPO: ${{ github.repository }}
+          COMMIT_SHA: ${{ github.sha }}
         run: |
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          CONTENT=$(printf '%s\n' "$COMMIT_SHA" | base64 -w0)
 
-          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GH_REPO}.git"
+          FILE_SHA=$(gh api \
+            "repos/${GH_REPO}/contents/version?ref=main" \
+            --jq '.sha' 2>/dev/null || true)
 
-          git fetch --depth=1 origin main
-          git checkout -B main FETCH_HEAD
-
-          echo "$COMMIT_SHA" > version
-
-          git add version
-
-          if git diff --cached --quiet; then
-            echo "Version file already up to date"
-            exit 0
+          if [ -n "$FILE_SHA" ]; then
+            gh api \
+              --method PUT \
+              "repos/${GH_REPO}/contents/version" \
+              -f message="chore: update version file to hash ${COMMIT_SHA}" \
+              -f content="$CONTENT" \
+              -f sha="$FILE_SHA" \
+              -f branch="main"
+          else
+            gh api \
+              --method PUT \
+              "repos/${GH_REPO}/contents/version" \
+              -f message="chore: create version file for hash ${COMMIT_SHA}" \
+              -f content="$CONTENT" \
+              -f branch="main"
           fi
-
-          git commit -m "chore: update version file to hash $COMMIT_SHA"
-          git push origin main
 
       - name: Purge jsDelivr cache
         env:
           GH_REPO: ${{ github.repository }}
         run: |
-          curl -fSs "https://purge.jsdelivr.net/gh/${GH_REPO}@latest/version"
+          curl --fail --silent --show-error \
+            --max-time 30 \
+            "https://purge.jsdelivr.net/gh/${GH_REPO}@latest/version"
