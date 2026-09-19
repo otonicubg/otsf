@@ -11,20 +11,26 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Update version file with commit SHA
+      - name: Generate and push version file without cloning
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_SHA: ${{ github.sha }}
         run: |
-          echo "${{ github.sha }}" > version
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git remote add origin "https://x-access-token:${GH_TOKEN}@://github.com{{ github.repository }}.git"
+          
+          git fetch --depth=1 origin main
+          git checkout main
 
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update version file to hash ${{ github.sha }}"
-          file_pattern: version
+          echo "$COMMIT_SHA" > version
+
+          git add version
+          git commit -m "chore: update version file to hash $COMMIT_SHA"
+          git push origin main
 
       - name: Purge jsDelivr cache
         run: |
-          # Sends the uncache request to jsDelivr for the @latest tracking branch
-          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@latest/version"
+          curl -s "https://jsdelivr.net{{ github.repository }}@latest/version"
