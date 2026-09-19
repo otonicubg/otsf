@@ -1,0 +1,15 @@
+{
+  "name": "afterlife",
+  "file": "afterlife.html",
+  "size": 97248,
+  "sha256": "2768decd2980eda1bf4722886a9add8574bc6315911b1532c5425a84076eafd6",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "6b2c096cf4644b86b2f41808.bin",
+      "size": 97248
+    }
+  ]
+}

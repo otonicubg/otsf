@@ -1,0 +1,39 @@
+{
+  "name": "It gets so lonely here",
+  "file": "It gets so lonely here.html",
+  "size": 143724805,
+  "sha256": "54f2f49e73f85bb4ad64a5916e008cfc29bb11f4c9a1d4ca29d0178c6f170878",
+  "partSize": 20971520,
+  "count": 7,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "87a78085b1a41676b7fd86a3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "6acdcc0e0dd2df8d30e26339.bin",
+      "size": 20971520
+    },
+    {
+      "name": "b891f5f1edbbf9c3b4bd743a.bin",
+      "size": 20971520
+    },
+    {
+      "name": "d3663ccd5a51c347ed8675f5.bin",
+      "size": 20971520
+    },
+    {
+      "name": "c1b9dbd866243e6351153e35.bin",
+      "size": 20971520
+    },
+    {
+      "name": "01e4f7cc620a86ca9051ebaf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2402313e53ee9590d6c6d5af.bin",
+      "size": 17895685
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "paint strike",
+  "file": "paint strike.html",
+  "size": 23421277,
+  "sha256": "91a13a1bd032dc411c1910a3e6231bdfb2c3c0de8376583dc19dbc7be518e43d",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "1ed85632219fc63e86ee9f46.bin",
+      "size": 20971520
+    },
+    {
+      "name": "0ed6f362d824f1c4f4cdeae7.bin",
+      "size": 2449757
+    }
+  ]
+}
