@@ -1,0 +1,23 @@
+{
+  "name": "fleeing the complex",
+  "file": "fleeing the complex.html",
+  "size": 49975003,
+  "sha256": "fa7fb738c1d2bea9b1759e6a7d04ff1a47ac8ab444110c85f6f5f72b0a31ada3",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "7a77bdd1406e5e9aca63aff3.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f6c083fd02373c66d3d5004f.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ffd4a89bea4593613f946748.bin",
+      "size": 8031963
+    }
+  ]
+}

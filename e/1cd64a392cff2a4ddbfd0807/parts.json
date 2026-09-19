@@ -1,0 +1,19 @@
+{
+  "name": "Midnight shift",
+  "file": "Midnight shift.html",
+  "size": 28900869,
+  "sha256": "a1f65e274668b2e031c3daa40f5426f8fe9c84bcdd4a5e909bba33c1316ae770",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "be050cd6f698d4f232e23ccf.bin",
+      "size": 20971520
+    },
+    {
+      "name": "82630379e89ff69cc66e7804.bin",
+      "size": 7929349
+    }
+  ]
+}

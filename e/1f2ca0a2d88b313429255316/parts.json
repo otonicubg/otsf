@@ -1,0 +1,19 @@
+{
+  "name": "duo survival 3",
+  "file": "duo survival 3.html",
+  "size": 21112355,
+  "sha256": "b5acf3ed89b4befcc6a5645614baa7dd1174b91721926ffdb7b0c1f1c04b5fec",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dca9ba197aa1f3c3886dd07d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "66067bdac994648e82b6acc3.bin",
+      "size": 140835
+    }
+  ]
+}
