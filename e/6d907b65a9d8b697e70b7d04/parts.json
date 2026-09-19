@@ -1,0 +1,23 @@
+{
+  "name": "3d car simulator",
+  "file": "3d car simulator.html",
+  "size": 47642542,
+  "sha256": "74bb9715b80df96fa9ad91eb74116c8bff8f24e352b268a97cdf0883b54060b0",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "83a7c385fd0bbe8a8f85b52b.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2dd6a313bb7dc89255b13c77.bin",
+      "size": 20971520
+    },
+    {
+      "name": "e312d997558d4d5efee8f115.bin",
+      "size": 5699502
+    }
+  ]
+}

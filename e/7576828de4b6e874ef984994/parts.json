@@ -1,0 +1,15 @@
+{
+  "name": "unloop",
+  "file": "unloop.html",
+  "size": 16301895,
+  "sha256": "7c616baefd40623add310bbb47d52ec70b00d2b152e29a507efe9ad7a08dfa03",
+  "partSize": 20971520,
+  "count": 1,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "f90373e598e6ebd6162d040f.bin",
+      "size": 16301895
+    }
+  ]
+}
