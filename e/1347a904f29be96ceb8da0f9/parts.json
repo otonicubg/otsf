@@ -1,0 +1,23 @@
+{
+  "name": "Clover Pit",
+  "file": "Clover Pit.html",
+  "size": 54308944,
+  "sha256": "0e74e849e91fbf6f40b0370e742b8f97a454f2d00fa0d438ff19cdd63889ba00",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "dcb670eddadeb587f843660d.bin",
+      "size": 20971520
+    },
+    {
+      "name": "ac11dc86daf8ab85f968d5f8.bin",
+      "size": 20971520
+    },
+    {
+      "name": "f0593b90060840a374e2acc6.bin",
+      "size": 12365904
+    }
+  ]
+}
