@@ -1,0 +1,23 @@
+{
+  "name": "orb of creation",
+  "file": "orb of creation.html",
+  "size": 62629688,
+  "sha256": "7d4de0660b46e7228974a761116d77dc55c2e58d99ab65435afb9dceb9caefe8",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "c91ad27458f15c9ac57e8857.bin",
+      "size": 20971520
+    },
+    {
+      "name": "2ae37fa4396013bfc75d76ef.bin",
+      "size": 20971520
+    },
+    {
+      "name": "038e7f7a06457659941ca3d7.bin",
+      "size": 20686648
+    }
+  ]
+}
