@@ -1,0 +1,23 @@
+{
+  "name": "flip runner",
+  "file": "flip runner.html",
+  "size": 47526896,
+  "sha256": "5657e31d4aff6cd7782d9a0a1f840474d5204387607c40fc8dc3777906549cad",
+  "partSize": 20971520,
+  "count": 3,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "573ee0b751a7c96925be7621.bin",
+      "size": 20971520
+    },
+    {
+      "name": "48c204e83726649a965d1769.bin",
+      "size": 20971520
+    },
+    {
+      "name": "279bc37b5cb450b03e3cdc88.bin",
+      "size": 5583856
+    }
+  ]
+}
