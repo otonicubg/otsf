@@ -8,10 +8,12 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - name: Generate and push version file without cloning
+      - name: Generate and push version file
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_SHA: ${{ github.sha }}
@@ -20,15 +22,21 @@ jobs:
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          git remote add origin "https://x-access-token:${GH_TOKEN}@://github.com{GH_REPO}.git"
-          
+
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GH_REPO}.git"
+
           git fetch --depth=1 origin main
-          git checkout main
+          git checkout -B main FETCH_HEAD
 
           echo "$COMMIT_SHA" > version
 
           git add version
+
+          if git diff --cached --quiet; then
+            echo "Version file already up to date"
+            exit 0
+          fi
+
           git commit -m "chore: update version file to hash $COMMIT_SHA"
           git push origin main
 
@@ -36,4 +44,4 @@ jobs:
         env:
           GH_REPO: ${{ github.repository }}
         run: |
-          curl -s "https://jsdelivr.net{GH_REPO}@latest/version"
+          curl -fSs "https://purge.jsdelivr.net/gh/${GH_REPO}@latest/version"
