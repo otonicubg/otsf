@@ -1,0 +1,19 @@
+{
+  "name": "clickventure castaway",
+  "file": "clickventure castaway.html",
+  "size": 26288134,
+  "sha256": "df9ba356417069f0a02f66f7a23400d055d8fd239d7ee4add2affcd7ac42b6e1",
+  "partSize": 20971520,
+  "count": 2,
+  "mime": "text/html; charset=windows-1252",
+  "parts": [
+    {
+      "name": "944c0b744043b23f6df37a52.bin",
+      "size": 20971520
+    },
+    {
+      "name": "3d424ed9e592fca2c550b84d.bin",
+      "size": 5316614
+    }
+  ]
+}
