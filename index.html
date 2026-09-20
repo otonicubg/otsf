@@ -1871,7 +1871,7 @@
 
             loadEquationEmbed()
 
-            function closeFrame(equationIframe) {
+            async function closeFrame(equationIframe) {
                 equationFrame.innerHTML = `
                     <div class="equation-embed-bar">
                         <h3>Equation</h3>
@@ -1884,7 +1884,11 @@
                 const url = new URL(window.location.href);
                 url.search = ""
                 
-                window.history.replaceState({}, document.title, url.toString());
+                try {
+                    window.history.replaceState({}, document.title, url.toString());
+                } catch (err) {
+                    return
+                }
                 equationFrame.classList.remove('loaded')
                 setTimeout(() => equationIframe.classlist.remove("hidden"), 1000)
             }
@@ -1948,9 +1952,13 @@
 
             function addCardListener() {
                 for (let equation of equationCards) {
-                    equation.addEventListener('click', function() {
+                    equation.addEventListener('click', async function() {
                         const newParams = new URLSearchParams({id: equation.dataset.id})
-                        window.history.pushState({}, "", "?" + newParams.toString())
+                        try {
+                            window.history.pushState({}, "", "?" + newParams.toString())
+                        } catch (err) {
+                            return
+                        }
                         loadEquationEmbed()
                     })
                 }
