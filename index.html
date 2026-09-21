@@ -1746,11 +1746,12 @@
             async function loadEquationEmbed(setId = undefined) {
                 let id
                 if (setId) {
-                    id = setId
+                    id = Number(setId)
                 } else {
                     const params = new URLSearchParams(document.location.search);
                     id = parseInt(params.get("id"))
                 }
+                console.log(id)
 
                 if (!Number.isNaN(id)) {
                     const idObject = cards.find(card => card.id === id)
@@ -1957,7 +1958,7 @@
 
             function addCardListener() {
                 for (let equation of equationCards) {
-                    equation.addEventListener('click', async function() {
+                    equation.addEventListener('click', function() {
                         const newParams = new URLSearchParams({id: equation.dataset.id})
                         loadEquationEmbed(equation.dataset.id)
                         try {
