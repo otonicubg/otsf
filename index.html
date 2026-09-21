@@ -1743,9 +1743,14 @@
 
 
 
-            async function loadEquationEmbed() {
-                const params = new URLSearchParams(document.location.search);
-                const id = parseInt(params.get("id"))
+            async function loadEquationEmbed(setId = undefined) {
+                let id
+                if (setId) {
+                    id = setId
+                } else {
+                    const params = new URLSearchParams(document.location.search);
+                    id = parseInt(params.get("id"))
+                }
 
                 if (!Number.isNaN(id)) {
                     const idObject = cards.find(card => card.id === id)
@@ -1954,11 +1959,11 @@
                 for (let equation of equationCards) {
                     equation.addEventListener('click', async function() {
                         const newParams = new URLSearchParams({id: equation.dataset.id})
-                        loadEquationEmbed()
                         try {
                             window.history.pushState({}, "", "?" + newParams.toString())
+                            loadEquationEmbed()
                         } catch (err) {
-                            
+                            loadEquationEmbed(equation.dataset.id)
                         }
                     })
                 }
