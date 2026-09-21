@@ -1887,7 +1887,7 @@
                 try {
                     window.history.replaceState({}, document.title, url.toString());
                 } catch (err) {
-                    return
+
                 }
                 equationFrame.classList.remove('loaded')
                 setTimeout(() => equationIframe.classlist.remove("hidden"), 1000)
@@ -1957,7 +1957,7 @@
                         try {
                             window.history.pushState({}, "", "?" + newParams.toString())
                         } catch (err) {
-                            return
+                            
                         }
                         loadEquationEmbed()
                     })
