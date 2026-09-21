@@ -1597,7 +1597,7 @@
                 return cu
             }
             async function getVersion(cu) {
-                const res = await fetch(`${atob(cu)}@latest/version`)
+                const res = await fetch(`${atob(cu)}@latest/version?v=${Math.floor(Math.random() * 1000000)}`)
                 
                 if (!res.ok) return
 
