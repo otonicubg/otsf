@@ -1959,11 +1959,11 @@
                 for (let equation of equationCards) {
                     equation.addEventListener('click', async function() {
                         const newParams = new URLSearchParams({id: equation.dataset.id})
+                        loadEquationEmbed(equation.dataset.id)
                         try {
                             window.history.pushState({}, "", "?" + newParams.toString())
-                            loadEquationEmbed()
                         } catch (err) {
-                            loadEquationEmbed(equation.dataset.id)
+                            
                         }
                     })
                 }
