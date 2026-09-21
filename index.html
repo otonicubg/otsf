@@ -1608,7 +1608,7 @@
             let cuv
             if (cu) {
                 const version = await getVersion(cu)
-                cuv = version ? `@${version}` : "@latest"
+                cuv = version ? `@${version}?v=${Math.floor(Math.random() * 1000000)}` : `@latest?v=${Math.floor(Math.random() * 1000000)}`
             }
             let { cards } = await import(`${atob(cu)}${cuv}/cards.js`)
             let topEquationsAll = await import(`${atob(cu)}${cuv}/top-equations.js`)
