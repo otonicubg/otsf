@@ -14,7 +14,7 @@
       "dir": "875144f228e08e8192e50023",
       "manifest": "parts.json",
       "file": "100 Pong.html",
-      "size": 699286,
+      "size": 699576,
       "parts": 1
     },
     {
@@ -22,7 +22,7 @@
       "dir": "4025133418cd2a72b96186ca",
       "manifest": "parts.json",
       "file": "1v1 Space.html",
-      "size": 100476,
+      "size": 100475,
       "parts": 1
     },
     {
@@ -38,7 +38,7 @@
       "dir": "d7195112c2a7ba2ede397e0a",
       "manifest": "parts.json",
       "file": "2048 Multitask.html",
-      "size": 1207803,
+      "size": 1207802,
       "parts": 1
     },
     {
