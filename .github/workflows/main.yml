@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - cards.js
-      - index.html
 
 permissions:
   contents: write
