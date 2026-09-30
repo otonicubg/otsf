@@ -1,4 +1,4 @@
-let cards = [
+let cards = [ 
     {id: 1, name: 'deepest sword', image: '.jpg', path: 'deepest sword', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore', split: 'b340b463bd7df5b712fea88a/parts.json', sha: 'eb76e612494b3560e7e93c001ffe575c520afb84'},
     {id: 2, name: 'car simulator arena', image: '.jpg', path: 'car simulator arena', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt', split: '49fced32968a786d9de3c414/parts.json', sha: 'eb76e612494b3560e7e93c001ffe575c520afb84'},
     {id: 3, name: 'territory war', image: '.jpg', path: 'territory war', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore', split: 'df57f23df843ec743a372b0f/parts.json', sha: 'eb76e612494b3560e7e93c001ffe575c520afb84'},
