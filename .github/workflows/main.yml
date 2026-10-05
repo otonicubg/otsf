@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - cards.js
+      - main.yml
+      - index.html
 
 permissions:
   contents: write
